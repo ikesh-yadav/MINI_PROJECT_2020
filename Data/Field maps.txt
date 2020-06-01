@@ -1,0 +1,26 @@
+Current Semester:semester,
+Gender:gender,
+How often do you spend time with your firends:friends_time,
+How often do you visit faculties outside class :faculty_time,
+Average Attendance:attendance,
+How attentive are you in class:attentiveness,
+Participation in co-curricular and extra curricular activities:co_extra_curricular,
+Study Time per day:study_time,
+How much time do you spend on social media:social_time,
+Previous semester scores:previous_score,
+How often do you take extra courses:extra_courses,
+Rate your health:health,
+How many hours do you sleep a day:sleep_time,
+How much time do you spend in library:library_time,
+Enter you group name:group_name
+
+
+
+
+
+
+
+
+
+
+

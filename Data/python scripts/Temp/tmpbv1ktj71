@@ -1,0 +1,31 @@
+semester,gender,friends_time,faculty_time,attendance,attentiveness,co_extra_curricular,study_time,social_time,previous_score,extra_courses,health,sleep_time,library_time,group_name,decision
+1,male,Moderate,Moderate,75 to 85,Very attentive,High,>4 hours,<1 hour,>5 but <7 GPA,Never,4,1,<1 hour,,4
+2,male,Moderate,Moderate,>85,Very attentive,Moderate,<1 hour,1 to 4 hours,>5 but <7 GPA,Never,4,2,<1 hour,,5
+5,female,High,Moderate,>85,Average,Low,<1 hour,<1 hour,<5 GPA,Sometimes,1,1,>4 hours,,7
+7,female,Moderate,Low,>85,Average,Low,<1 hour,>4 hours,>5 but <7 GPA,Sometimes,3,3,<1 hour,,5
+4,female,Moderate,High,>85,Average,High,<1 hour,>4 hours,>9 GPA,Never,1,3,<1 hour,,9
+3,male,High,High,75 to 85,Average,Moderate,>4 hours,1 to 4 hours,>5 but <7 GPA,Sometimes,4,3,<1 hour,,6
+6,female,Low,High,>85,Very attentive,High,<1 hour,<1 hour,>9 GPA,Often,4,2,<1 hour,,8
+3,male,Moderate,Moderate,75 to 85,Very attentive,High,>4 hours,>4 hours,>5 but <7 GPA,Never,2,2,>4 hours,,6
+2,female,Low,High,75 to 85,Less attentive,Low,>4 hours,1 to 4 hours,>5 but <7 GPA,Often,5,2,1 to 4 hours,,7
+1,male,Low,Moderate,>85,Average,Moderate,<1 hour,<1 hour,<5 GPA,Often,5,1,>4 hours,,6
+8,female,Moderate,Low,>85,Very attentive,Moderate,1 to 4 hours,<1 hour,>5 but <7 GPA,Never,2,3,<1 hour,,7
+6,male,Low,Low,>85,Less attentive,High,<1 hour,<1 hour,>5 but <7 GPA,Sometimes,1,2,<1 hour,,5
+4,male,Low,Low,>85,Average,Low,1 to 4 hours,1 to 4 hours,>7 but <9 GPA,Never,4,1,>4 hours,,9
+7,female,Low,Low,>85,Average,Moderate,>4 hours,1 to 4 hours,<5 GPA,Often,4,3,>4 hours,,5
+4,male,High,High,75 to 85,Average,High,>4 hours,<1 hour,<5 GPA,Never,1,1,>4 hours,,9
+3,female,Moderate,Low,>85,Very attentive,Low,>4 hours,>4 hours,>7 but <9 GPA,Often,1,3,<1 hour,,6
+3,female,High,High,>85,Average,Low,<1 hour,>4 hours,<5 GPA,Sometimes,2,2,1 to 4 hours,,6
+1,male,Low,Moderate,<75,Very attentive,Low,1 to 4 hours,1 to 4 hours,>9 GPA,Never,1,1,>4 hours,,8
+2,male,Moderate,High,75 to 85,Average,High,1 to 4 hours,1 to 4 hours,>5 but <7 GPA,Sometimes,4,3,1 to 4 hours,,7
+4,female,Moderate,High,75 to 85,Very attentive,Moderate,<1 hour,>4 hours,<5 GPA,Never,2,1,<1 hour,,5
+5,male,High,Low,>85,Less attentive,High,>4 hours,<1 hour,>7 but <9 GPA,Often,3,1,1 to 4 hours,,8
+8,male,Low,Moderate,<75,Very attentive,Low,1 to 4 hours,<1 hour,>7 but <9 GPA,Sometimes,2,1,>4 hours,,8
+8,male,High,Low,<75,Average,High,<1 hour,<1 hour,>5 but <7 GPA,Often,5,1,1 to 4 hours,,7
+5,male,Low,High,<75,Very attentive,Moderate,<1 hour,1 to 4 hours,>9 GPA,Sometimes,1,3,>4 hours,,9
+6,male,High,Moderate,75 to 85,Less attentive,Moderate,<1 hour,>4 hours,<5 GPA,Sometimes,5,1,<1 hour,,5
+7,female,Low,Low,>85,Average,Low,<1 hour,<1 hour,>5 but <7 GPA,Never,5,3,1 to 4 hours,,6
+4,female,High,Moderate,>85,Less attentive,Moderate,>4 hours,1 to 4 hours,>5 but <7 GPA,Often,4,1,<1 hour,,6
+3,male,High,High,>85,Less attentive,High,<1 hour,1 to 4 hours,>5 but <7 GPA,Never,2,3,<1 hour,,6
+6,female,Moderate,Low,75 to 85,Average,Low,<1 hour,<1 hour,>5 but <7 GPA,Often,1,3,>4 hours,,8
+1,male,Moderate,Low,75 to 85,Less attentive,High,>4 hours,>4 hours,<5 GPA,Often,4,2,<1 hour,,5

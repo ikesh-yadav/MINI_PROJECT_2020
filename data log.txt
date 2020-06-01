@@ -1,0 +1,2 @@
+removed going_out_out_with_friends column because time_spent_with friends already exists
+added decision column for the output

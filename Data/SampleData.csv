@@ -1,0 +1,1001 @@
+semester,gender,friends_time,faculty_time,attendance,attentiveness,co_extra_curricular,study_time,social_time,previous_score,extra_courses,health,sleep_time,library_time,group_name,Decision
+4,male,sometimes,never,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,1,>8,1 to 4,,7 to 9
+7,female,often,often,75 to 85,Moderate,never,1 to 4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,5 to 7
+3,male,never,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,<6,1 to 4,,7 to 9
+2,male,often,often,>85,Moderate,never,1 to 4,1 to 4,7 to 9,never,5,6 to 8,<1,,7 to 9
+3,male,never,often,75 to 85,High,never,<1,<1,5 to 7,never,4,<6,1 to 4,,7 to 9
+1,female,never,sometimes,75 to 85,Low,sometimes,<1,>4,7 to 9,sometimes,1,6 to 8,<1,,7 to 9
+6,male,often,never,>85,High,never,<1,<1,5 to 7,often,5,6 to 8,>4,,>9
+2,male,often,never,75 to 85,Low,often,>4,1 to 4,<5,never,5,6 to 8,1 to 4,,7 to 9
+1,female,often,sometimes,>85,Low,sometimes,>4,1 to 4,>9,never,5,<6,<1,,5 to 7
+4,female,sometimes,never,>85,Moderate,sometimes,>4,<1,5 to 7,sometimes,4,<6,<1,,7 to 9
+1,female,often,sometimes,>85,Low,sometimes,>4,<1,5 to 7,sometimes,3,6 to 8,1 to 4,,7 to 9
+1,male,sometimes,never,<75,Low,never,<1,1 to 4,5 to 7,sometimes,3,>8,>4,,7 to 9
+4,male,sometimes,often,>85,Moderate,often,<1,1 to 4,>9,often,5,6 to 8,<1,,5 to 7
+6,male,often,sometimes,75 to 85,Low,never,>4,>4,<5,often,3,6 to 8,>4,,5 to 7
+3,female,sometimes,sometimes,<75,Moderate,often,1 to 4,1 to 4,7 to 9,sometimes,5,6 to 8,1 to 4,,>9
+8,male,often,often,75 to 85,Moderate,never,>4,1 to 4,7 to 9,never,5,<6,<1,,>9
+3,female,often,often,75 to 85,High,never,>4,>4,7 to 9,sometimes,3,6 to 8,<1,,>9
+5,male,often,often,>85,High,sometimes,>4,<1,7 to 9,sometimes,5,>8,>4,,>9
+4,female,often,never,<75,Moderate,sometimes,>4,>4,<5,never,3,>8,<1,,5 to 7
+8,male,often,often,>85,Low,never,<1,<1,<5,never,5,<6,1 to 4,,7 to 9
+3,female,sometimes,sometimes,75 to 85,Low,never,1 to 4,1 to 4,<5,sometimes,4,6 to 8,1 to 4,,5 to 7
+4,female,sometimes,often,>85,Low,never,>4,<1,7 to 9,sometimes,4,6 to 8,1 to 4,,5 to 7
+7,female,often,never,<75,Low,never,<1,>4,5 to 7,never,4,6 to 8,>4,,5 to 7
+1,male,never,sometimes,<75,Low,never,>4,<1,7 to 9,sometimes,4,6 to 8,1 to 4,,5 to 7
+8,male,never,often,75 to 85,High,never,1 to 4,>4,7 to 9,often,2,>8,<1,,5 to 7
+7,male,often,often,75 to 85,Moderate,sometimes,1 to 4,>4,5 to 7,sometimes,4,6 to 8,1 to 4,,>9
+7,male,never,often,75 to 85,Moderate,often,>4,1 to 4,>9,sometimes,3,<6,1 to 4,,>9
+7,female,never,often,<75,High,sometimes,1 to 4,<1,5 to 7,sometimes,5,<6,>4,,7 to 9
+7,female,never,sometimes,<75,Moderate,never,>4,<1,<5,often,4,6 to 8,1 to 4,,>9
+6,male,never,never,<75,Low,sometimes,1 to 4,>4,>9,never,3,6 to 8,<1,,5 to 7
+3,male,sometimes,never,75 to 85,Low,never,1 to 4,1 to 4,>9,sometimes,4,>8,1 to 4,,5 to 7
+6,male,never,never,75 to 85,Moderate,sometimes,>4,>4,7 to 9,sometimes,4,6 to 8,1 to 4,,5 to 7
+8,female,often,never,>85,Low,often,1 to 4,>4,5 to 7,often,5,6 to 8,<1,,7 to 9
+7,male,never,often,>85,Low,often,1 to 4,>4,5 to 7,never,3,6 to 8,1 to 4,,>9
+2,female,often,sometimes,>85,High,sometimes,<1,<1,7 to 9,sometimes,3,<6,1 to 4,,5 to 7
+3,male,sometimes,sometimes,75 to 85,Moderate,sometimes,1 to 4,<1,>9,sometimes,4,6 to 8,<1,,>9
+4,female,often,never,>85,Moderate,never,<1,<1,5 to 7,sometimes,4,6 to 8,<1,,7 to 9
+5,male,often,sometimes,<75,Low,often,<1,1 to 4,>9,sometimes,5,<6,>4,,5 to 7
+8,male,never,never,>85,Low,sometimes,>4,<1,<5,never,3,6 to 8,1 to 4,,7 to 9
+8,male,sometimes,sometimes,>85,Moderate,often,1 to 4,1 to 4,>9,often,3,6 to 8,>4,,<5
+5,female,often,never,75 to 85,High,sometimes,<1,>4,7 to 9,sometimes,2,6 to 8,<1,,7 to 9
+5,male,never,often,<75,Low,never,1 to 4,>4,5 to 7,never,4,<6,<1,,>9
+7,male,sometimes,never,75 to 85,Low,sometimes,<1,>4,<5,never,3,6 to 8,<1,,>9
+5,female,often,sometimes,75 to 85,Moderate,never,1 to 4,>4,7 to 9,never,4,6 to 8,1 to 4,,5 to 7
+6,male,often,never,75 to 85,High,never,<1,>4,7 to 9,often,4,6 to 8,>4,,7 to 9
+7,male,sometimes,sometimes,>85,Low,never,>4,>4,>9,sometimes,4,6 to 8,1 to 4,,5 to 7
+1,male,often,never,<75,Moderate,often,<1,<1,7 to 9,never,4,<6,<1,,7 to 9
+4,female,never,never,75 to 85,Low,often,1 to 4,<1,<5,sometimes,2,<6,>4,,5 to 7
+3,male,sometimes,never,>85,Moderate,never,1 to 4,1 to 4,<5,often,3,>8,1 to 4,,7 to 9
+6,female,never,often,75 to 85,Moderate,never,<1,<1,7 to 9,never,4,6 to 8,1 to 4,,>9
+7,female,never,sometimes,<75,Low,never,>4,<1,5 to 7,sometimes,1,6 to 8,<1,,>9
+5,male,sometimes,sometimes,75 to 85,Moderate,never,>4,>4,<5,sometimes,4,6 to 8,1 to 4,,>9
+5,male,often,sometimes,<75,Low,often,>4,>4,<5,never,2,<6,1 to 4,,>9
+4,female,often,often,<75,Moderate,often,<1,>4,7 to 9,often,5,<6,>4,,>9
+8,male,often,sometimes,75 to 85,High,often,1 to 4,1 to 4,5 to 7,sometimes,4,6 to 8,<1,,7 to 9
+4,male,sometimes,never,<75,Moderate,sometimes,<1,<1,7 to 9,never,3,6 to 8,>4,,7 to 9
+4,male,never,never,>85,Moderate,often,>4,<1,<5,never,3,6 to 8,1 to 4,,7 to 9
+7,male,never,often,75 to 85,Low,never,>4,>4,<5,sometimes,5,>8,<1,,7 to 9
+3,female,sometimes,sometimes,>85,Low,sometimes,1 to 4,1 to 4,>9,often,2,6 to 8,>4,,5 to 7
+8,male,never,never,>85,High,never,>4,<1,5 to 7,never,4,6 to 8,>4,,5 to 7
+3,female,often,often,75 to 85,Moderate,often,>4,<1,>9,never,2,<6,1 to 4,,7 to 9
+7,male,often,often,75 to 85,Moderate,often,<1,1 to 4,>9,never,5,6 to 8,>4,,>9
+4,male,often,sometimes,>85,Low,sometimes,>4,>4,>9,sometimes,3,<6,1 to 4,,<5
+2,female,sometimes,sometimes,>85,High,sometimes,1 to 4,1 to 4,<5,sometimes,3,6 to 8,1 to 4,,5 to 7
+2,male,never,never,<75,Moderate,never,<1,1 to 4,7 to 9,sometimes,4,<6,>4,,5 to 7
+4,female,sometimes,sometimes,>85,Moderate,often,<1,>4,>9,often,5,6 to 8,>4,,5 to 7
+2,female,sometimes,often,>85,High,never,1 to 4,>4,7 to 9,often,3,6 to 8,>4,,<5
+3,female,sometimes,never,75 to 85,High,often,1 to 4,>4,>9,never,5,>8,<1,,<5
+4,male,sometimes,sometimes,75 to 85,Low,sometimes,>4,<1,5 to 7,never,4,>8,<1,,7 to 9
+3,male,never,often,75 to 85,Low,often,1 to 4,1 to 4,5 to 7,sometimes,3,6 to 8,1 to 4,,5 to 7
+1,female,sometimes,often,>85,Low,never,>4,1 to 4,<5,often,3,>8,1 to 4,,7 to 9
+8,male,sometimes,often,>85,High,often,1 to 4,1 to 4,7 to 9,sometimes,5,6 to 8,1 to 4,,7 to 9
+4,male,sometimes,often,<75,Low,sometimes,>4,>4,<5,never,3,<6,1 to 4,,>9
+8,male,often,never,75 to 85,High,often,1 to 4,1 to 4,7 to 9,sometimes,3,6 to 8,1 to 4,,5 to 7
+2,female,never,often,75 to 85,High,sometimes,>4,1 to 4,>9,sometimes,5,6 to 8,>4,,5 to 7
+8,male,never,sometimes,75 to 85,Moderate,often,>4,>4,7 to 9,often,4,6 to 8,1 to 4,,>9
+1,male,sometimes,often,75 to 85,Low,often,<1,<1,7 to 9,never,3,6 to 8,>4,,5 to 7
+4,female,often,often,75 to 85,Moderate,sometimes,1 to 4,>4,7 to 9,often,3,6 to 8,<1,,5 to 7
+6,male,never,often,75 to 85,Low,sometimes,<1,1 to 4,>9,often,4,6 to 8,1 to 4,,>9
+6,male,often,never,<75,High,never,<1,1 to 4,>9,often,5,<6,1 to 4,,5 to 7
+8,male,often,never,75 to 85,Low,never,1 to 4,1 to 4,5 to 7,sometimes,4,<6,1 to 4,,5 to 7
+6,female,never,often,>85,Low,often,1 to 4,>4,>9,sometimes,3,<6,1 to 4,,>9
+4,female,never,often,>85,High,sometimes,1 to 4,<1,<5,often,4,6 to 8,1 to 4,,5 to 7
+1,male,sometimes,never,>85,High,never,>4,1 to 4,>9,sometimes,4,>8,1 to 4,,>9
+6,female,sometimes,often,>85,Low,sometimes,<1,>4,5 to 7,sometimes,5,>8,1 to 4,,7 to 9
+6,male,sometimes,sometimes,>85,Low,often,>4,<1,>9,often,3,6 to 8,1 to 4,,7 to 9
+2,female,never,sometimes,75 to 85,Low,often,<1,1 to 4,>9,sometimes,1,>8,1 to 4,,7 to 9
+8,male,sometimes,never,>85,Low,often,<1,>4,7 to 9,never,5,6 to 8,<1,,7 to 9
+2,male,never,never,>85,Low,sometimes,<1,>4,5 to 7,often,3,6 to 8,>4,,7 to 9
+5,female,often,sometimes,<75,Moderate,never,>4,>4,5 to 7,sometimes,5,<6,>4,,7 to 9
+8,male,never,often,<75,Low,never,<1,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,>9
+2,male,often,never,75 to 85,High,never,>4,1 to 4,>9,never,4,6 to 8,1 to 4,,>9
+5,male,never,sometimes,>85,High,never,>4,>4,5 to 7,sometimes,4,<6,>4,,7 to 9
+3,male,never,never,<75,High,sometimes,>4,<1,5 to 7,sometimes,5,>8,1 to 4,,>9
+8,male,sometimes,often,75 to 85,Low,often,1 to 4,<1,7 to 9,often,4,6 to 8,1 to 4,,5 to 7
+4,female,often,often,75 to 85,Low,sometimes,<1,>4,<5,often,4,>8,1 to 4,,7 to 9
+4,female,often,sometimes,75 to 85,High,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,>8,>4,,5 to 7
+8,male,sometimes,often,>85,High,sometimes,>4,<1,5 to 7,often,5,>8,<1,,>9
+6,male,never,sometimes,75 to 85,Low,never,<1,>4,7 to 9,often,4,>8,<1,,>9
+2,female,often,never,<75,Low,often,<1,1 to 4,7 to 9,often,3,<6,>4,,5 to 7
+7,female,sometimes,often,<75,Low,never,1 to 4,1 to 4,>9,never,3,6 to 8,1 to 4,,>9
+2,female,often,never,<75,High,often,1 to 4,>4,5 to 7,often,4,>8,>4,,5 to 7
+5,female,often,sometimes,75 to 85,Moderate,sometimes,<1,1 to 4,<5,sometimes,2,6 to 8,>4,,7 to 9
+1,male,sometimes,often,75 to 85,Moderate,never,>4,>4,7 to 9,sometimes,3,>8,1 to 4,,<5
+2,male,never,often,<75,Low,often,1 to 4,>4,7 to 9,sometimes,4,6 to 8,<1,,7 to 9
+8,female,never,often,>85,Moderate,often,>4,>4,7 to 9,sometimes,5,>8,<1,,>9
+5,male,sometimes,sometimes,75 to 85,High,never,1 to 4,<1,>9,never,3,<6,1 to 4,,5 to 7
+5,male,never,never,>85,Moderate,often,<1,>4,>9,never,5,6 to 8,<1,,>9
+2,male,never,never,<75,Low,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,6 to 8,<1,,7 to 9
+6,male,often,sometimes,75 to 85,Moderate,sometimes,>4,>4,<5,often,3,6 to 8,>4,,>9
+4,male,often,often,>85,Moderate,often,1 to 4,>4,>9,never,4,>8,1 to 4,,7 to 9
+8,male,often,often,75 to 85,High,sometimes,1 to 4,<1,5 to 7,often,3,<6,1 to 4,,7 to 9
+4,male,sometimes,often,<75,Low,sometimes,<1,1 to 4,5 to 7,often,3,>8,1 to 4,,<5
+6,female,sometimes,never,>85,Moderate,often,<1,<1,<5,often,5,>8,1 to 4,,7 to 9
+6,male,often,sometimes,<75,Moderate,sometimes,<1,>4,5 to 7,often,4,>8,1 to 4,,<5
+1,male,often,often,75 to 85,Low,often,<1,1 to 4,<5,often,5,<6,>4,,5 to 7
+2,male,often,never,>85,Moderate,often,<1,1 to 4,5 to 7,sometimes,5,>8,>4,,7 to 9
+3,male,sometimes,never,75 to 85,Low,sometimes,<1,>4,>9,never,5,6 to 8,>4,,7 to 9
+6,male,sometimes,sometimes,<75,Low,often,>4,1 to 4,>9,never,3,6 to 8,1 to 4,,5 to 7
+1,male,never,sometimes,75 to 85,Moderate,often,1 to 4,1 to 4,<5,often,5,6 to 8,>4,,7 to 9
+7,female,sometimes,sometimes,75 to 85,Moderate,sometimes,1 to 4,>4,>9,sometimes,5,>8,<1,,7 to 9
+7,female,never,never,75 to 85,Low,never,1 to 4,1 to 4,7 to 9,often,3,6 to 8,1 to 4,,5 to 7
+3,male,never,sometimes,>85,High,often,<1,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,>9
+1,female,often,often,>85,Moderate,never,>4,>4,7 to 9,never,4,6 to 8,1 to 4,,5 to 7
+3,female,never,never,75 to 85,High,never,<1,1 to 4,<5,often,4,>8,1 to 4,,>9
+5,female,never,sometimes,75 to 85,Moderate,never,>4,1 to 4,>9,sometimes,4,<6,<1,,>9
+7,female,never,sometimes,75 to 85,Moderate,sometimes,<1,<1,5 to 7,sometimes,4,>8,<1,,5 to 7
+1,male,often,often,75 to 85,Moderate,often,<1,>4,>9,often,3,<6,1 to 4,,>9
+8,female,sometimes,never,75 to 85,Low,never,1 to 4,1 to 4,<5,never,5,6 to 8,>4,,>9
+8,female,sometimes,often,75 to 85,High,sometimes,1 to 4,<1,7 to 9,sometimes,5,6 to 8,1 to 4,,5 to 7
+3,female,often,never,75 to 85,Moderate,never,>4,>4,<5,sometimes,4,6 to 8,1 to 4,,5 to 7
+5,female,often,never,<75,Low,never,<1,1 to 4,7 to 9,often,5,>8,<1,,>9
+2,male,sometimes,sometimes,75 to 85,High,never,1 to 4,<1,7 to 9,sometimes,3,6 to 8,1 to 4,,5 to 7
+4,female,never,often,<75,High,often,>4,1 to 4,<5,often,3,>8,1 to 4,,5 to 7
+6,male,often,never,>85,High,sometimes,>4,<1,5 to 7,never,5,6 to 8,1 to 4,,7 to 9
+8,female,never,never,75 to 85,Low,sometimes,<1,>4,>9,often,4,6 to 8,1 to 4,,<5
+1,male,often,often,>85,Moderate,sometimes,1 to 4,>4,5 to 7,sometimes,4,>8,1 to 4,,>9
+3,male,sometimes,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,7 to 9,sometimes,5,6 to 8,1 to 4,,<5
+7,female,never,never,<75,High,sometimes,1 to 4,>4,<5,sometimes,4,>8,1 to 4,,5 to 7
+1,male,sometimes,sometimes,<75,Low,sometimes,<1,<1,>9,never,3,6 to 8,<1,,5 to 7
+7,female,sometimes,never,75 to 85,Low,often,>4,1 to 4,>9,often,4,6 to 8,<1,,>9
+8,female,often,sometimes,>85,Moderate,often,>4,>4,7 to 9,often,3,>8,<1,,7 to 9
+6,female,often,never,<75,Moderate,never,1 to 4,>4,5 to 7,never,4,<6,1 to 4,,5 to 7
+2,female,never,often,>85,Moderate,never,<1,<1,7 to 9,often,4,6 to 8,<1,,7 to 9
+1,male,often,sometimes,75 to 85,High,never,>4,1 to 4,7 to 9,sometimes,4,<6,>4,,5 to 7
+2,male,never,often,<75,Moderate,sometimes,<1,>4,5 to 7,sometimes,5,6 to 8,1 to 4,,<5
+4,female,sometimes,never,<75,High,sometimes,<1,>4,<5,often,5,>8,1 to 4,,5 to 7
+1,female,sometimes,never,75 to 85,High,never,<1,1 to 4,<5,often,5,6 to 8,>4,,5 to 7
+7,female,sometimes,never,>85,Moderate,often,<1,1 to 4,>9,never,5,6 to 8,<1,,5 to 7
+3,female,often,never,<75,Moderate,sometimes,>4,>4,<5,sometimes,1,6 to 8,>4,,<5
+4,female,sometimes,sometimes,>85,Low,never,<1,1 to 4,7 to 9,often,5,>8,>4,,>9
+7,female,sometimes,sometimes,<75,High,never,1 to 4,1 to 4,>9,often,4,6 to 8,<1,,>9
+1,male,often,often,>85,Low,often,1 to 4,>4,>9,often,5,>8,1 to 4,,5 to 7
+1,female,never,sometimes,>85,Low,never,<1,<1,<5,never,5,<6,<1,,7 to 9
+7,male,often,sometimes,<75,High,never,<1,<1,<5,often,3,6 to 8,>4,,5 to 7
+1,female,sometimes,never,>85,Low,sometimes,<1,1 to 4,5 to 7,sometimes,3,>8,1 to 4,,>9
+8,female,sometimes,often,>85,Moderate,often,1 to 4,>4,7 to 9,sometimes,4,6 to 8,1 to 4,,<5
+5,female,sometimes,never,75 to 85,Moderate,sometimes,>4,<1,>9,often,5,6 to 8,<1,,5 to 7
+4,female,never,often,>85,High,often,>4,1 to 4,>9,sometimes,3,6 to 8,>4,,5 to 7
+6,male,often,never,75 to 85,Low,often,>4,1 to 4,5 to 7,sometimes,4,6 to 8,>4,,>9
+4,male,often,sometimes,>85,Moderate,often,1 to 4,>4,5 to 7,never,4,6 to 8,>4,,5 to 7
+6,male,sometimes,sometimes,<75,High,sometimes,<1,<1,5 to 7,sometimes,5,6 to 8,<1,,7 to 9
+3,male,never,sometimes,>85,Low,often,>4,>4,<5,often,5,6 to 8,1 to 4,,>9
+2,female,never,often,75 to 85,High,sometimes,>4,<1,>9,never,5,6 to 8,1 to 4,,<5
+7,female,often,often,>85,Moderate,sometimes,<1,>4,<5,sometimes,4,>8,<1,,5 to 7
+5,male,often,often,>85,Low,often,<1,<1,7 to 9,sometimes,4,6 to 8,1 to 4,,>9
+3,female,sometimes,sometimes,<75,High,never,<1,>4,7 to 9,never,5,6 to 8,>4,,7 to 9
+1,female,sometimes,sometimes,>85,Low,sometimes,1 to 4,1 to 4,>9,sometimes,5,6 to 8,<1,,5 to 7
+7,female,sometimes,never,75 to 85,Moderate,often,<1,1 to 4,<5,never,5,6 to 8,1 to 4,,5 to 7
+1,male,never,never,75 to 85,Low,sometimes,<1,<1,5 to 7,often,4,6 to 8,1 to 4,,7 to 9
+8,female,sometimes,often,75 to 85,Moderate,never,>4,1 to 4,5 to 7,never,5,6 to 8,1 to 4,,>9
+2,male,never,sometimes,>85,Moderate,sometimes,>4,>4,<5,often,4,>8,<1,,<5
+6,female,often,sometimes,75 to 85,High,often,1 to 4,1 to 4,<5,never,3,>8,1 to 4,,>9
+6,male,sometimes,often,>85,Moderate,never,<1,1 to 4,>9,never,3,>8,>4,,7 to 9
+8,female,sometimes,sometimes,<75,Low,sometimes,1 to 4,1 to 4,7 to 9,often,4,>8,1 to 4,,7 to 9
+3,male,sometimes,never,75 to 85,High,sometimes,<1,1 to 4,5 to 7,often,4,>8,<1,,5 to 7
+8,male,sometimes,often,>85,Moderate,sometimes,<1,>4,<5,never,4,6 to 8,<1,,>9
+2,female,often,often,>85,Moderate,never,>4,>4,<5,never,3,6 to 8,<1,,5 to 7
+1,female,often,sometimes,75 to 85,Moderate,sometimes,1 to 4,>4,5 to 7,sometimes,4,6 to 8,1 to 4,,>9
+7,female,often,sometimes,75 to 85,Moderate,often,>4,<1,7 to 9,often,3,<6,1 to 4,,7 to 9
+8,male,sometimes,often,>85,High,sometimes,>4,<1,<5,sometimes,3,<6,1 to 4,,7 to 9
+4,male,often,sometimes,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,5,>8,1 to 4,,7 to 9
+5,male,sometimes,often,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,1,>8,1 to 4,,>9
+7,male,never,sometimes,>85,High,sometimes,<1,1 to 4,7 to 9,sometimes,5,<6,1 to 4,,<5
+4,male,often,often,<75,Low,never,>4,1 to 4,7 to 9,sometimes,4,6 to 8,1 to 4,,<5
+4,female,often,never,75 to 85,High,often,1 to 4,1 to 4,>9,sometimes,5,6 to 8,1 to 4,,5 to 7
+6,male,sometimes,never,>85,High,often,>4,1 to 4,>9,never,3,6 to 8,1 to 4,,5 to 7
+8,female,sometimes,often,75 to 85,High,sometimes,>4,>4,>9,often,4,<6,1 to 4,,5 to 7
+2,female,often,often,>85,High,never,<1,>4,5 to 7,never,1,6 to 8,<1,,5 to 7
+5,male,sometimes,sometimes,75 to 85,Moderate,never,>4,<1,5 to 7,sometimes,1,<6,>4,,>9
+3,male,sometimes,never,75 to 85,High,never,<1,1 to 4,7 to 9,often,4,6 to 8,<1,,7 to 9
+3,female,often,often,>85,Moderate,sometimes,<1,>4,<5,never,5,<6,1 to 4,,>9
+4,female,often,never,<75,Moderate,often,<1,>4,<5,often,5,<6,1 to 4,,5 to 7
+8,male,often,sometimes,<75,High,sometimes,<1,<1,7 to 9,never,5,>8,1 to 4,,7 to 9
+3,female,often,never,<75,Low,sometimes,1 to 4,<1,7 to 9,sometimes,3,6 to 8,1 to 4,,5 to 7
+2,female,never,sometimes,75 to 85,Low,sometimes,<1,>4,7 to 9,sometimes,5,6 to 8,1 to 4,,<5
+8,male,never,often,75 to 85,Moderate,never,>4,>4,<5,never,5,<6,>4,,5 to 7
+2,male,sometimes,sometimes,<75,Moderate,sometimes,1 to 4,>4,7 to 9,sometimes,5,6 to 8,1 to 4,,<5
+1,male,sometimes,often,>85,Moderate,sometimes,1 to 4,>4,5 to 7,never,2,>8,>4,,7 to 9
+3,female,never,often,<75,Low,sometimes,1 to 4,1 to 4,>9,often,4,6 to 8,1 to 4,,7 to 9
+4,female,often,never,75 to 85,High,never,>4,>4,<5,never,4,<6,<1,,5 to 7
+6,female,never,never,<75,Moderate,never,<1,<1,7 to 9,never,5,6 to 8,1 to 4,,7 to 9
+5,male,sometimes,sometimes,>85,Moderate,often,>4,<1,<5,sometimes,5,<6,1 to 4,,5 to 7
+1,male,never,never,>85,High,never,1 to 4,1 to 4,>9,sometimes,5,6 to 8,1 to 4,,<5
+5,female,often,often,<75,High,never,1 to 4,1 to 4,>9,sometimes,4,>8,>4,,<5
+1,male,never,never,>85,Low,often,<1,1 to 4,>9,often,4,6 to 8,<1,,7 to 9
+4,male,often,sometimes,<75,Low,never,<1,>4,<5,never,5,>8,<1,,>9
+6,female,sometimes,often,<75,Moderate,sometimes,<1,>4,5 to 7,never,4,6 to 8,>4,,5 to 7
+4,female,never,never,>85,High,sometimes,>4,1 to 4,7 to 9,never,1,6 to 8,1 to 4,,<5
+1,male,sometimes,sometimes,75 to 85,Low,often,>4,<1,7 to 9,sometimes,3,>8,1 to 4,,<5
+1,female,never,sometimes,75 to 85,High,never,<1,>4,<5,never,5,<6,<1,,>9
+2,male,never,often,>85,High,never,<1,<1,5 to 7,never,5,>8,<1,,<5
+7,male,sometimes,often,<75,Low,often,>4,>4,<5,sometimes,4,<6,1 to 4,,>9
+6,female,often,never,75 to 85,Low,often,<1,<1,>9,sometimes,5,6 to 8,>4,,<5
+8,female,sometimes,never,<75,Moderate,sometimes,1 to 4,<1,7 to 9,never,3,6 to 8,<1,,7 to 9
+3,female,sometimes,never,<75,Moderate,never,1 to 4,1 to 4,<5,sometimes,5,<6,1 to 4,,>9
+8,male,sometimes,never,>85,High,never,<1,<1,>9,sometimes,4,>8,>4,,5 to 7
+6,male,sometimes,often,75 to 85,High,sometimes,>4,1 to 4,7 to 9,sometimes,5,6 to 8,>4,,>9
+6,male,often,never,<75,Moderate,sometimes,1 to 4,>4,<5,never,5,>8,>4,,>9
+8,female,sometimes,often,<75,Low,never,1 to 4,<1,<5,sometimes,5,6 to 8,1 to 4,,>9
+4,male,sometimes,often,75 to 85,High,often,>4,>4,5 to 7,sometimes,5,6 to 8,<1,,>9
+2,male,often,never,<75,High,never,1 to 4,>4,7 to 9,sometimes,4,<6,<1,,7 to 9
+1,male,often,never,>85,Low,sometimes,<1,1 to 4,5 to 7,never,4,6 to 8,1 to 4,,7 to 9
+2,male,sometimes,never,75 to 85,Low,never,>4,1 to 4,7 to 9,sometimes,4,>8,1 to 4,,<5
+2,male,never,often,>85,High,never,1 to 4,<1,5 to 7,often,4,6 to 8,<1,,5 to 7
+7,female,sometimes,never,75 to 85,Low,never,>4,<1,5 to 7,sometimes,4,6 to 8,1 to 4,,7 to 9
+2,female,never,sometimes,>85,Low,never,<1,<1,<5,often,4,6 to 8,1 to 4,,7 to 9
+6,male,sometimes,never,75 to 85,High,never,<1,1 to 4,7 to 9,never,1,<6,1 to 4,,5 to 7
+7,female,often,sometimes,>85,High,sometimes,<1,>4,<5,often,3,<6,<1,,5 to 7
+4,male,often,often,75 to 85,Moderate,never,<1,1 to 4,>9,sometimes,3,>8,1 to 4,,5 to 7
+6,female,often,often,<75,Moderate,sometimes,1 to 4,>4,>9,often,3,6 to 8,<1,,<5
+1,male,never,often,75 to 85,High,never,>4,>4,>9,often,3,>8,<1,,5 to 7
+7,male,sometimes,never,75 to 85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,4,>8,1 to 4,,<5
+6,male,sometimes,often,<75,High,sometimes,>4,>4,5 to 7,never,3,6 to 8,1 to 4,,7 to 9
+7,male,often,often,<75,High,sometimes,<1,1 to 4,>9,sometimes,4,6 to 8,1 to 4,,7 to 9
+5,female,never,often,75 to 85,Moderate,sometimes,>4,<1,>9,never,5,6 to 8,<1,,5 to 7
+7,male,sometimes,never,<75,High,never,>4,1 to 4,7 to 9,often,3,6 to 8,>4,,7 to 9
+1,male,sometimes,often,75 to 85,Moderate,never,1 to 4,<1,>9,never,4,6 to 8,>4,,<5
+4,male,often,often,75 to 85,Moderate,sometimes,>4,1 to 4,>9,sometimes,5,6 to 8,>4,,>9
+1,male,often,sometimes,<75,High,sometimes,>4,1 to 4,5 to 7,never,4,<6,<1,,5 to 7
+7,female,often,never,>85,Low,never,<1,<1,7 to 9,sometimes,5,6 to 8,1 to 4,,>9
+2,female,often,sometimes,>85,Moderate,never,<1,>4,7 to 9,often,4,6 to 8,<1,,7 to 9
+7,female,often,never,<75,Moderate,sometimes,>4,<1,5 to 7,never,3,<6,1 to 4,,>9
+1,female,often,never,<75,Moderate,sometimes,>4,<1,<5,often,3,6 to 8,<1,,7 to 9
+3,male,sometimes,sometimes,>85,High,never,>4,1 to 4,<5,never,5,6 to 8,1 to 4,,>9
+2,female,sometimes,never,<75,High,sometimes,1 to 4,<1,7 to 9,never,4,6 to 8,<1,,>9
+4,male,sometimes,never,<75,High,never,<1,>4,>9,never,3,<6,<1,,<5
+4,male,never,never,<75,Moderate,never,<1,1 to 4,<5,never,4,>8,<1,,7 to 9
+1,female,never,sometimes,<75,High,often,1 to 4,1 to 4,7 to 9,sometimes,3,6 to 8,1 to 4,,7 to 9
+1,female,sometimes,sometimes,>85,High,sometimes,>4,1 to 4,>9,sometimes,3,6 to 8,1 to 4,,<5
+5,female,sometimes,never,75 to 85,Low,sometimes,>4,>4,5 to 7,often,5,>8,1 to 4,,>9
+8,female,often,often,75 to 85,Low,never,>4,>4,5 to 7,sometimes,5,>8,1 to 4,,>9
+8,female,never,sometimes,>85,Low,sometimes,>4,1 to 4,>9,never,4,>8,1 to 4,,5 to 7
+7,female,sometimes,often,75 to 85,High,never,1 to 4,1 to 4,<5,never,5,6 to 8,1 to 4,,<5
+5,male,sometimes,often,75 to 85,High,sometimes,1 to 4,>4,5 to 7,sometimes,4,<6,<1,,<5
+5,female,often,never,75 to 85,High,sometimes,>4,>4,<5,often,3,6 to 8,<1,,>9
+1,male,sometimes,often,>85,Moderate,never,>4,<1,<5,sometimes,3,<6,1 to 4,,<5
+4,female,often,sometimes,75 to 85,High,often,>4,1 to 4,5 to 7,often,4,>8,1 to 4,,>9
+5,male,often,never,>85,High,sometimes,1 to 4,<1,>9,sometimes,3,<6,>4,,7 to 9
+4,male,often,often,>85,Moderate,sometimes,>4,1 to 4,7 to 9,often,4,6 to 8,1 to 4,,>9
+4,male,sometimes,never,75 to 85,Low,often,<1,>4,5 to 7,sometimes,3,>8,1 to 4,,5 to 7
+4,female,sometimes,sometimes,75 to 85,Low,never,>4,<1,5 to 7,often,5,6 to 8,>4,,7 to 9
+1,female,often,often,<75,High,often,<1,<1,5 to 7,never,4,>8,1 to 4,,7 to 9
+1,female,often,sometimes,>85,Moderate,never,<1,<1,5 to 7,never,4,6 to 8,<1,,5 to 7
+8,female,never,sometimes,>85,Low,often,<1,>4,5 to 7,never,3,6 to 8,1 to 4,,<5
+3,female,often,often,>85,Moderate,often,<1,1 to 4,7 to 9,never,5,>8,1 to 4,,7 to 9
+3,female,sometimes,often,<75,High,sometimes,1 to 4,>4,>9,often,3,<6,>4,,5 to 7
+6,male,often,sometimes,>85,Low,often,>4,1 to 4,7 to 9,never,3,6 to 8,>4,,>9
+3,female,sometimes,often,>85,High,sometimes,1 to 4,<1,>9,sometimes,5,6 to 8,1 to 4,,5 to 7
+3,male,often,sometimes,>85,High,never,>4,1 to 4,5 to 7,often,3,6 to 8,<1,,7 to 9
+8,female,often,never,>85,High,sometimes,1 to 4,1 to 4,<5,sometimes,4,6 to 8,1 to 4,,7 to 9
+8,male,often,often,>85,Moderate,sometimes,1 to 4,1 to 4,7 to 9,never,4,>8,1 to 4,,5 to 7
+2,female,often,sometimes,>85,Moderate,never,>4,1 to 4,5 to 7,never,5,6 to 8,1 to 4,,5 to 7
+7,male,never,never,>85,High,often,1 to 4,<1,>9,never,5,<6,<1,,7 to 9
+8,female,often,sometimes,>85,Low,sometimes,>4,1 to 4,5 to 7,never,4,<6,<1,,5 to 7
+8,female,never,often,>85,Low,often,>4,1 to 4,<5,sometimes,5,6 to 8,1 to 4,,>9
+3,female,never,sometimes,<75,High,sometimes,>4,>4,5 to 7,never,4,<6,>4,,5 to 7
+6,female,sometimes,sometimes,75 to 85,Low,often,>4,>4,>9,never,4,6 to 8,1 to 4,,>9
+6,male,sometimes,never,75 to 85,High,often,>4,>4,7 to 9,often,3,6 to 8,1 to 4,,>9
+3,male,never,sometimes,75 to 85,Moderate,often,>4,1 to 4,>9,often,4,6 to 8,1 to 4,,7 to 9
+2,female,never,never,75 to 85,High,sometimes,>4,1 to 4,>9,sometimes,3,6 to 8,1 to 4,,5 to 7
+1,female,often,often,>85,High,never,>4,>4,7 to 9,often,4,6 to 8,1 to 4,,5 to 7
+1,female,never,often,>85,High,sometimes,>4,1 to 4,<5,sometimes,3,6 to 8,1 to 4,,>9
+7,female,never,often,75 to 85,Moderate,never,>4,>4,5 to 7,often,4,>8,<1,,>9
+6,male,never,sometimes,<75,Low,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,>8,>4,,>9
+3,male,never,often,>85,Low,often,<1,1 to 4,>9,often,4,<6,1 to 4,,>9
+6,male,sometimes,often,<75,Moderate,never,>4,1 to 4,>9,sometimes,4,6 to 8,>4,,>9
+6,male,often,often,<75,Low,sometimes,>4,1 to 4,>9,sometimes,3,>8,1 to 4,,7 to 9
+4,male,sometimes,never,<75,High,often,>4,>4,5 to 7,often,1,6 to 8,>4,,<5
+2,female,often,never,>85,Low,sometimes,1 to 4,>4,7 to 9,never,5,6 to 8,1 to 4,,<5
+5,female,sometimes,sometimes,<75,Low,never,<1,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,<5
+1,female,never,never,<75,Moderate,sometimes,<1,1 to 4,5 to 7,sometimes,4,>8,1 to 4,,5 to 7
+6,female,sometimes,sometimes,>85,High,never,1 to 4,1 to 4,>9,never,5,<6,<1,,7 to 9
+8,female,sometimes,sometimes,<75,Moderate,sometimes,1 to 4,<1,5 to 7,never,5,6 to 8,<1,,7 to 9
+3,female,sometimes,sometimes,>85,Moderate,often,1 to 4,<1,7 to 9,sometimes,4,6 to 8,1 to 4,,7 to 9
+5,male,never,often,>85,High,never,<1,1 to 4,<5,sometimes,3,<6,1 to 4,,7 to 9
+4,female,sometimes,sometimes,75 to 85,Low,never,1 to 4,1 to 4,7 to 9,often,4,>8,<1,,7 to 9
+2,female,often,never,<75,Low,often,1 to 4,<1,<5,never,5,6 to 8,1 to 4,,5 to 7
+1,female,never,sometimes,<75,Low,sometimes,>4,1 to 4,5 to 7,sometimes,5,6 to 8,>4,,>9
+8,male,sometimes,never,<75,High,never,>4,1 to 4,7 to 9,often,5,<6,<1,,5 to 7
+8,male,sometimes,sometimes,>85,Low,sometimes,1 to 4,<1,>9,sometimes,3,<6,>4,,<5
+6,female,often,often,75 to 85,Moderate,sometimes,1 to 4,<1,<5,often,2,>8,<1,,7 to 9
+1,female,never,sometimes,<75,Moderate,often,<1,>4,7 to 9,sometimes,2,6 to 8,1 to 4,,5 to 7
+7,female,sometimes,never,<75,Moderate,often,<1,1 to 4,>9,sometimes,3,6 to 8,1 to 4,,7 to 9
+5,male,never,sometimes,75 to 85,High,never,<1,<1,>9,sometimes,3,6 to 8,<1,,7 to 9
+6,male,sometimes,never,>85,Moderate,often,>4,1 to 4,>9,sometimes,4,6 to 8,1 to 4,,<5
+8,male,never,never,<75,Low,never,>4,<1,>9,often,4,>8,<1,,5 to 7
+6,female,often,never,<75,High,sometimes,<1,<1,<5,sometimes,1,6 to 8,1 to 4,,5 to 7
+1,female,never,sometimes,<75,Low,often,<1,>4,7 to 9,often,4,6 to 8,>4,,7 to 9
+5,female,often,never,>85,Low,sometimes,>4,1 to 4,7 to 9,sometimes,3,6 to 8,>4,,5 to 7
+3,female,never,often,>85,Moderate,often,1 to 4,<1,>9,never,3,>8,1 to 4,,>9
+7,female,sometimes,sometimes,<75,Low,sometimes,>4,1 to 4,<5,sometimes,1,<6,<1,,5 to 7
+2,female,often,often,>85,Low,sometimes,<1,1 to 4,<5,never,4,6 to 8,1 to 4,,7 to 9
+5,female,sometimes,never,75 to 85,High,often,1 to 4,<1,<5,never,5,<6,>4,,<5
+8,male,never,often,>85,High,never,>4,>4,5 to 7,often,5,6 to 8,1 to 4,,5 to 7
+1,female,often,often,75 to 85,Low,often,<1,<1,>9,sometimes,3,>8,<1,,5 to 7
+1,female,never,often,<75,Low,often,>4,<1,<5,sometimes,4,<6,1 to 4,,>9
+2,male,never,often,75 to 85,Moderate,sometimes,1 to 4,>4,7 to 9,never,5,>8,<1,,7 to 9
+4,male,often,sometimes,>85,High,never,>4,<1,<5,often,4,6 to 8,<1,,7 to 9
+4,female,sometimes,sometimes,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,>9
+3,male,often,never,>85,Low,sometimes,1 to 4,>4,5 to 7,sometimes,4,6 to 8,>4,,>9
+4,male,sometimes,never,>85,Low,sometimes,1 to 4,>4,5 to 7,sometimes,5,6 to 8,1 to 4,,<5
+7,male,often,often,>85,High,often,1 to 4,1 to 4,7 to 9,never,4,>8,1 to 4,,>9
+7,male,sometimes,sometimes,75 to 85,Moderate,sometimes,1 to 4,<1,<5,often,5,<6,1 to 4,,5 to 7
+4,female,never,sometimes,75 to 85,High,sometimes,1 to 4,1 to 4,5 to 7,often,3,6 to 8,1 to 4,,<5
+6,female,often,sometimes,75 to 85,High,never,1 to 4,>4,5 to 7,often,3,<6,1 to 4,,7 to 9
+5,female,often,sometimes,<75,Moderate,often,<1,1 to 4,>9,sometimes,4,6 to 8,<1,,7 to 9
+2,male,sometimes,often,>85,High,sometimes,<1,1 to 4,>9,never,3,6 to 8,1 to 4,,7 to 9
+3,male,sometimes,often,<75,Low,sometimes,1 to 4,1 to 4,<5,sometimes,4,6 to 8,<1,,<5
+6,male,often,often,>85,Low,sometimes,1 to 4,>4,5 to 7,sometimes,4,<6,1 to 4,,7 to 9
+6,male,never,sometimes,<75,High,never,1 to 4,<1,7 to 9,sometimes,4,>8,1 to 4,,5 to 7
+2,male,never,sometimes,75 to 85,High,sometimes,1 to 4,<1,>9,sometimes,4,<6,1 to 4,,5 to 7
+3,male,often,sometimes,>85,Low,often,1 to 4,<1,<5,never,3,<6,1 to 4,,5 to 7
+3,female,never,sometimes,75 to 85,Moderate,never,>4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,7 to 9
+8,male,sometimes,never,>85,Low,sometimes,1 to 4,<1,>9,sometimes,4,<6,<1,,<5
+1,female,never,never,75 to 85,Moderate,never,>4,1 to 4,5 to 7,never,5,6 to 8,>4,,5 to 7
+1,female,never,often,75 to 85,High,often,<1,>4,>9,often,2,<6,1 to 4,,5 to 7
+7,female,sometimes,never,<75,Moderate,often,1 to 4,>4,7 to 9,sometimes,4,<6,<1,,5 to 7
+7,male,never,often,<75,Low,often,<1,<1,<5,sometimes,3,6 to 8,>4,,5 to 7
+4,male,sometimes,never,75 to 85,Moderate,often,>4,<1,7 to 9,never,4,6 to 8,1 to 4,,5 to 7
+8,male,sometimes,sometimes,>85,Moderate,often,<1,1 to 4,<5,often,5,<6,<1,,<5
+7,male,sometimes,often,<75,Low,often,1 to 4,<1,5 to 7,never,4,6 to 8,1 to 4,,<5
+8,female,sometimes,sometimes,>85,Low,sometimes,1 to 4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,>9
+2,male,never,sometimes,75 to 85,Moderate,sometimes,<1,>4,7 to 9,sometimes,3,<6,1 to 4,,7 to 9
+8,male,often,sometimes,75 to 85,Low,never,1 to 4,<1,7 to 9,sometimes,3,6 to 8,1 to 4,,>9
+7,male,never,never,<75,Low,often,>4,>4,5 to 7,sometimes,4,6 to 8,<1,,5 to 7
+4,male,often,often,<75,High,sometimes,<1,1 to 4,>9,never,4,<6,<1,,>9
+6,female,often,never,75 to 85,Low,never,1 to 4,1 to 4,<5,sometimes,5,6 to 8,1 to 4,,7 to 9
+1,female,sometimes,sometimes,<75,High,never,1 to 4,<1,>9,never,4,>8,1 to 4,,7 to 9
+7,female,never,sometimes,<75,Moderate,sometimes,1 to 4,1 to 4,7 to 9,often,4,>8,1 to 4,,7 to 9
+2,male,often,sometimes,75 to 85,High,sometimes,1 to 4,>4,>9,often,5,>8,<1,,>9
+2,male,never,often,<75,High,sometimes,<1,>4,7 to 9,sometimes,4,6 to 8,1 to 4,,>9
+2,female,often,often,75 to 85,Low,sometimes,>4,>4,7 to 9,often,5,<6,1 to 4,,<5
+7,male,never,sometimes,<75,Low,sometimes,1 to 4,1 to 4,5 to 7,sometimes,4,6 to 8,1 to 4,,>9
+3,female,often,never,75 to 85,Low,never,<1,<1,<5,often,4,6 to 8,1 to 4,,7 to 9
+7,female,sometimes,never,75 to 85,Low,never,<1,>4,5 to 7,often,2,<6,>4,,7 to 9
+7,female,often,never,75 to 85,Moderate,never,<1,>4,7 to 9,never,3,<6,1 to 4,,>9
+8,female,sometimes,often,75 to 85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,5,<6,>4,,>9
+2,female,sometimes,never,75 to 85,Moderate,sometimes,<1,1 to 4,5 to 7,never,5,6 to 8,1 to 4,,7 to 9
+2,female,never,never,<75,Low,never,>4,1 to 4,>9,sometimes,3,6 to 8,1 to 4,,<5
+4,male,never,sometimes,<75,High,sometimes,<1,1 to 4,7 to 9,often,2,<6,1 to 4,,7 to 9
+2,male,sometimes,never,75 to 85,Moderate,sometimes,<1,<1,>9,never,5,>8,1 to 4,,>9
+7,female,sometimes,never,>85,Low,sometimes,1 to 4,<1,>9,never,5,>8,<1,,7 to 9
+3,female,sometimes,sometimes,75 to 85,High,often,1 to 4,>4,<5,sometimes,3,>8,>4,,<5
+8,female,sometimes,never,<75,High,often,1 to 4,>4,<5,often,5,>8,1 to 4,,>9
+3,male,never,often,<75,Low,never,1 to 4,>4,>9,sometimes,5,6 to 8,1 to 4,,<5
+2,male,often,sometimes,>85,Low,often,1 to 4,>4,<5,sometimes,4,6 to 8,>4,,5 to 7
+2,male,never,sometimes,>85,Moderate,often,<1,1 to 4,<5,never,5,6 to 8,>4,,7 to 9
+1,female,often,sometimes,75 to 85,Moderate,often,1 to 4,>4,<5,sometimes,3,<6,1 to 4,,<5
+7,female,often,sometimes,>85,Moderate,sometimes,>4,1 to 4,5 to 7,sometimes,4,>8,>4,,<5
+7,female,never,sometimes,<75,Low,sometimes,1 to 4,<1,7 to 9,never,4,6 to 8,1 to 4,,<5
+7,female,often,never,75 to 85,High,sometimes,>4,1 to 4,7 to 9,often,4,<6,1 to 4,,<5
+3,male,never,often,>85,Low,sometimes,1 to 4,1 to 4,7 to 9,sometimes,3,>8,1 to 4,,7 to 9
+6,male,often,never,75 to 85,Low,never,<1,1 to 4,7 to 9,sometimes,5,<6,1 to 4,,>9
+6,male,sometimes,sometimes,75 to 85,Moderate,often,<1,1 to 4,7 to 9,sometimes,4,>8,1 to 4,,>9
+7,male,sometimes,sometimes,<75,High,sometimes,>4,>4,>9,sometimes,5,6 to 8,1 to 4,,7 to 9
+6,female,often,often,75 to 85,Moderate,often,>4,>4,5 to 7,often,4,<6,1 to 4,,>9
+6,female,often,often,<75,Moderate,sometimes,<1,<1,>9,never,5,<6,1 to 4,,5 to 7
+4,female,sometimes,sometimes,<75,High,often,1 to 4,1 to 4,>9,often,5,6 to 8,1 to 4,,7 to 9
+7,female,often,often,<75,Moderate,never,>4,1 to 4,<5,often,5,6 to 8,<1,,>9
+8,female,sometimes,sometimes,>85,High,never,1 to 4,<1,<5,often,3,<6,>4,,7 to 9
+7,female,sometimes,never,75 to 85,High,never,1 to 4,<1,5 to 7,sometimes,3,6 to 8,1 to 4,,7 to 9
+2,male,never,never,<75,Low,often,1 to 4,1 to 4,<5,never,3,<6,1 to 4,,5 to 7
+5,male,never,sometimes,>85,Low,never,1 to 4,>4,7 to 9,often,4,6 to 8,<1,,>9
+2,male,often,never,<75,Low,often,<1,<1,<5,never,4,<6,1 to 4,,7 to 9
+7,male,often,never,>85,Moderate,often,>4,<1,<5,often,5,6 to 8,1 to 4,,7 to 9
+5,male,never,often,75 to 85,Moderate,never,<1,<1,>9,sometimes,3,6 to 8,>4,,7 to 9
+1,male,never,often,75 to 85,High,never,1 to 4,>4,5 to 7,sometimes,4,6 to 8,<1,,>9
+3,female,sometimes,never,>85,Low,sometimes,<1,<1,>9,never,3,>8,>4,,<5
+3,male,often,sometimes,>85,High,sometimes,1 to 4,<1,<5,often,4,<6,1 to 4,,5 to 7
+5,female,never,often,<75,Moderate,never,>4,1 to 4,>9,sometimes,4,>8,1 to 4,,7 to 9
+8,male,never,sometimes,75 to 85,High,often,1 to 4,1 to 4,7 to 9,often,4,>8,<1,,<5
+5,male,never,often,<75,Low,sometimes,<1,1 to 4,5 to 7,often,3,>8,>4,,5 to 7
+4,female,sometimes,often,75 to 85,High,sometimes,1 to 4,1 to 4,5 to 7,sometimes,3,6 to 8,<1,,<5
+4,female,never,sometimes,<75,Low,sometimes,>4,>4,5 to 7,sometimes,5,<6,1 to 4,,5 to 7
+5,male,never,never,<75,Low,never,>4,<1,<5,never,4,<6,>4,,7 to 9
+3,female,sometimes,often,<75,Moderate,sometimes,1 to 4,>4,5 to 7,never,4,6 to 8,1 to 4,,5 to 7
+4,male,often,never,75 to 85,High,sometimes,>4,1 to 4,>9,never,3,>8,<1,,7 to 9
+3,female,never,never,<75,Moderate,sometimes,1 to 4,<1,<5,never,5,6 to 8,<1,,>9
+8,female,sometimes,often,>85,Low,sometimes,<1,1 to 4,<5,often,5,6 to 8,<1,,5 to 7
+6,male,often,never,<75,High,never,>4,>4,>9,sometimes,4,6 to 8,>4,,5 to 7
+1,female,often,never,75 to 85,Moderate,sometimes,1 to 4,<1,<5,sometimes,3,6 to 8,>4,,>9
+4,female,often,never,<75,Moderate,sometimes,1 to 4,>4,<5,never,5,6 to 8,<1,,7 to 9
+6,female,sometimes,never,75 to 85,High,sometimes,>4,<1,7 to 9,never,4,6 to 8,1 to 4,,5 to 7
+5,male,sometimes,often,<75,Low,sometimes,>4,1 to 4,<5,sometimes,3,6 to 8,1 to 4,,>9
+8,male,often,often,<75,High,often,<1,1 to 4,>9,sometimes,5,6 to 8,1 to 4,,7 to 9
+3,female,never,often,>85,Low,sometimes,1 to 4,>4,>9,sometimes,3,6 to 8,<1,,5 to 7
+1,male,never,sometimes,75 to 85,High,often,>4,1 to 4,<5,often,4,6 to 8,1 to 4,,<5
+7,female,often,never,<75,Moderate,never,1 to 4,>4,<5,never,5,<6,1 to 4,,>9
+8,female,never,never,75 to 85,High,often,>4,<1,>9,never,3,6 to 8,1 to 4,,>9
+8,female,never,never,75 to 85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,6 to 8,<1,,5 to 7
+3,male,never,never,>85,Low,often,<1,>4,<5,often,2,6 to 8,>4,,5 to 7
+7,male,sometimes,never,>85,Moderate,often,1 to 4,>4,<5,never,4,<6,1 to 4,,7 to 9
+2,female,often,never,>85,High,often,1 to 4,1 to 4,>9,often,5,6 to 8,<1,,<5
+4,female,often,sometimes,>85,High,sometimes,1 to 4,1 to 4,<5,sometimes,4,<6,1 to 4,,5 to 7
+8,female,often,often,<75,Low,sometimes,>4,<1,>9,sometimes,5,6 to 8,1 to 4,,<5
+7,male,often,often,75 to 85,Low,often,<1,>4,5 to 7,sometimes,1,6 to 8,1 to 4,,5 to 7
+2,male,never,never,<75,High,often,1 to 4,<1,<5,sometimes,3,6 to 8,1 to 4,,>9
+7,female,never,never,<75,High,sometimes,>4,<1,5 to 7,often,5,<6,1 to 4,,7 to 9
+6,male,often,never,75 to 85,High,never,>4,1 to 4,<5,often,5,6 to 8,1 to 4,,7 to 9
+8,female,sometimes,often,>85,High,often,1 to 4,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,5 to 7
+4,male,never,often,<75,Low,often,>4,1 to 4,<5,never,5,>8,1 to 4,,5 to 7
+8,female,sometimes,sometimes,>85,High,often,>4,>4,7 to 9,often,4,<6,<1,,<5
+7,female,often,sometimes,75 to 85,Low,often,1 to 4,<1,5 to 7,sometimes,4,<6,>4,,7 to 9
+2,male,often,often,75 to 85,High,sometimes,>4,<1,7 to 9,often,4,>8,1 to 4,,5 to 7
+2,male,sometimes,never,>85,High,sometimes,>4,<1,<5,sometimes,5,6 to 8,<1,,5 to 7
+4,female,sometimes,often,>85,Moderate,never,<1,<1,>9,often,4,6 to 8,1 to 4,,7 to 9
+7,male,often,sometimes,>85,Low,sometimes,>4,>4,>9,often,4,>8,>4,,7 to 9
+3,female,sometimes,often,>85,High,sometimes,1 to 4,<1,>9,sometimes,4,>8,>4,,7 to 9
+6,female,never,never,<75,Moderate,sometimes,<1,<1,5 to 7,never,4,<6,>4,,>9
+1,male,never,often,<75,Moderate,never,1 to 4,<1,<5,sometimes,4,<6,1 to 4,,7 to 9
+8,female,often,never,75 to 85,High,never,>4,<1,7 to 9,sometimes,4,<6,1 to 4,,>9
+4,male,never,often,<75,High,often,1 to 4,1 to 4,>9,sometimes,5,>8,<1,,7 to 9
+6,male,sometimes,never,75 to 85,Moderate,never,>4,1 to 4,7 to 9,often,5,6 to 8,>4,,<5
+1,male,sometimes,never,<75,Low,never,1 to 4,1 to 4,7 to 9,often,1,<6,>4,,7 to 9
+7,male,never,never,<75,High,often,>4,<1,>9,sometimes,4,6 to 8,<1,,5 to 7
+2,male,never,sometimes,<75,High,sometimes,>4,>4,5 to 7,often,5,>8,<1,,<5
+4,female,sometimes,never,75 to 85,Moderate,sometimes,>4,<1,5 to 7,often,4,6 to 8,<1,,7 to 9
+7,female,sometimes,sometimes,<75,Low,never,<1,<1,<5,sometimes,3,>8,<1,,<5
+6,female,never,sometimes,75 to 85,High,often,<1,1 to 4,5 to 7,never,4,<6,1 to 4,,>9
+1,male,often,never,<75,Moderate,often,1 to 4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,>9
+5,female,never,never,75 to 85,Moderate,often,>4,<1,7 to 9,sometimes,4,6 to 8,<1,,5 to 7
+7,female,sometimes,often,>85,High,often,>4,>4,5 to 7,sometimes,5,6 to 8,>4,,5 to 7
+6,male,often,sometimes,>85,High,sometimes,1 to 4,<1,<5,never,5,6 to 8,>4,,>9
+6,female,sometimes,often,<75,Low,sometimes,<1,1 to 4,>9,sometimes,5,6 to 8,1 to 4,,5 to 7
+8,male,sometimes,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,>9,often,5,6 to 8,>4,,7 to 9
+4,male,often,often,<75,Low,often,1 to 4,1 to 4,5 to 7,never,4,6 to 8,<1,,7 to 9
+6,male,never,often,<75,High,never,>4,>4,<5,never,4,6 to 8,>4,,>9
+5,female,sometimes,sometimes,<75,High,never,>4,<1,>9,sometimes,4,>8,1 to 4,,7 to 9
+6,male,sometimes,sometimes,<75,High,never,1 to 4,1 to 4,<5,often,3,>8,<1,,7 to 9
+5,female,sometimes,often,<75,High,often,1 to 4,1 to 4,7 to 9,never,3,6 to 8,1 to 4,,<5
+5,female,never,never,>85,High,sometimes,>4,>4,<5,often,3,<6,<1,,<5
+4,male,never,never,<75,Low,never,>4,1 to 4,5 to 7,sometimes,5,6 to 8,<1,,<5
+6,female,never,never,<75,Low,often,1 to 4,1 to 4,7 to 9,never,5,6 to 8,>4,,<5
+1,male,never,often,>85,High,sometimes,1 to 4,>4,>9,never,4,6 to 8,1 to 4,,>9
+4,male,never,never,75 to 85,Moderate,often,1 to 4,>4,>9,often,4,<6,<1,,>9
+8,female,never,never,<75,Low,never,>4,1 to 4,<5,often,3,6 to 8,>4,,5 to 7
+6,female,never,never,<75,High,sometimes,1 to 4,<1,>9,never,3,<6,>4,,<5
+6,male,never,never,<75,High,never,1 to 4,<1,>9,never,4,6 to 8,<1,,7 to 9
+8,male,sometimes,never,<75,High,never,>4,<1,5 to 7,never,5,>8,>4,,7 to 9
+4,female,often,often,<75,Moderate,often,<1,<1,7 to 9,never,5,>8,1 to 4,,<5
+8,female,never,never,<75,High,often,>4,>4,<5,never,4,>8,>4,,5 to 7
+2,female,never,never,>85,High,often,>4,>4,>9,never,5,6 to 8,1 to 4,,5 to 7
+3,male,often,never,75 to 85,High,sometimes,1 to 4,<1,>9,often,3,6 to 8,1 to 4,,7 to 9
+3,female,never,never,>85,High,never,<1,<1,<5,never,3,6 to 8,<1,,<5
+3,female,sometimes,never,75 to 85,High,sometimes,>4,1 to 4,5 to 7,often,4,>8,<1,,7 to 9
+1,female,sometimes,sometimes,<75,Moderate,never,1 to 4,>4,>9,sometimes,5,>8,>4,,>9
+1,female,often,never,<75,High,often,1 to 4,1 to 4,>9,often,4,6 to 8,1 to 4,,>9
+3,female,sometimes,sometimes,75 to 85,Moderate,often,>4,>4,5 to 7,sometimes,5,6 to 8,<1,,5 to 7
+5,male,sometimes,never,75 to 85,Low,never,1 to 4,<1,5 to 7,never,3,6 to 8,<1,,5 to 7
+6,male,often,often,<75,Moderate,sometimes,>4,1 to 4,7 to 9,sometimes,4,6 to 8,>4,,7 to 9
+5,male,sometimes,sometimes,75 to 85,High,never,>4,1 to 4,>9,often,4,>8,1 to 4,,5 to 7
+4,male,sometimes,often,<75,Moderate,often,>4,1 to 4,<5,never,5,6 to 8,>4,,>9
+6,female,never,often,75 to 85,Moderate,never,1 to 4,1 to 4,7 to 9,sometimes,4,<6,1 to 4,,>9
+8,female,often,never,>85,Low,sometimes,>4,1 to 4,5 to 7,sometimes,4,6 to 8,<1,,5 to 7
+8,female,sometimes,never,<75,Low,sometimes,>4,1 to 4,5 to 7,often,4,6 to 8,>4,,<5
+6,male,never,never,<75,Low,sometimes,<1,1 to 4,7 to 9,never,4,<6,>4,,7 to 9
+2,male,sometimes,sometimes,<75,High,never,>4,<1,<5,sometimes,4,>8,<1,,>9
+6,male,often,never,>85,Low,never,<1,1 to 4,5 to 7,never,4,<6,1 to 4,,<5
+6,female,sometimes,often,<75,Moderate,sometimes,1 to 4,<1,>9,never,5,6 to 8,1 to 4,,7 to 9
+5,female,sometimes,never,>85,High,often,1 to 4,1 to 4,>9,never,4,>8,>4,,<5
+4,male,never,sometimes,>85,Moderate,sometimes,1 to 4,>4,7 to 9,often,3,6 to 8,<1,,>9
+6,male,sometimes,sometimes,>85,Moderate,often,1 to 4,>4,>9,often,5,<6,1 to 4,,<5
+2,male,often,often,75 to 85,High,sometimes,>4,>4,>9,sometimes,4,<6,1 to 4,,<5
+8,male,sometimes,often,<75,Moderate,often,>4,<1,5 to 7,sometimes,3,6 to 8,>4,,>9
+7,male,never,sometimes,<75,High,never,1 to 4,<1,<5,sometimes,5,>8,<1,,5 to 7
+3,female,never,sometimes,<75,Low,often,>4,1 to 4,<5,never,3,>8,1 to 4,,>9
+2,female,often,never,75 to 85,Low,often,1 to 4,1 to 4,5 to 7,sometimes,5,<6,1 to 4,,<5
+8,male,often,never,75 to 85,Moderate,sometimes,1 to 4,1 to 4,>9,sometimes,4,6 to 8,1 to 4,,7 to 9
+7,male,sometimes,often,75 to 85,High,often,<1,1 to 4,5 to 7,never,1,>8,1 to 4,,<5
+3,female,never,never,<75,Low,sometimes,1 to 4,1 to 4,<5,sometimes,4,6 to 8,>4,,5 to 7
+1,male,sometimes,never,>85,Low,never,1 to 4,>4,5 to 7,never,3,<6,>4,,>9
+6,female,often,often,<75,High,sometimes,1 to 4,>4,>9,never,5,<6,>4,,5 to 7
+2,female,often,sometimes,>85,High,sometimes,1 to 4,1 to 4,<5,often,3,<6,1 to 4,,7 to 9
+1,female,sometimes,never,75 to 85,High,often,<1,<1,>9,never,5,6 to 8,<1,,7 to 9
+4,male,often,never,>85,Moderate,often,<1,<1,<5,sometimes,5,6 to 8,1 to 4,,5 to 7
+4,male,never,sometimes,<75,Moderate,sometimes,>4,<1,5 to 7,sometimes,5,>8,1 to 4,,7 to 9
+8,male,often,never,>85,Low,often,1 to 4,1 to 4,>9,often,3,<6,<1,,7 to 9
+6,male,often,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,5,6 to 8,<1,,>9
+8,male,sometimes,often,75 to 85,Moderate,sometimes,>4,1 to 4,>9,never,3,6 to 8,1 to 4,,5 to 7
+3,female,never,never,>85,Low,sometimes,<1,>4,5 to 7,sometimes,3,6 to 8,1 to 4,,>9
+2,male,never,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,5,>8,1 to 4,,>9
+7,female,often,often,75 to 85,Low,never,>4,1 to 4,<5,often,5,>8,1 to 4,,<5
+1,female,sometimes,never,>85,Low,sometimes,>4,1 to 4,<5,often,3,6 to 8,1 to 4,,7 to 9
+7,female,never,often,<75,Low,often,>4,<1,7 to 9,sometimes,4,6 to 8,1 to 4,,>9
+6,female,never,often,>85,Moderate,never,>4,<1,7 to 9,sometimes,4,>8,<1,,>9
+7,female,sometimes,never,75 to 85,Moderate,sometimes,1 to 4,1 to 4,>9,often,3,>8,<1,,7 to 9
+5,female,often,never,<75,High,often,>4,<1,5 to 7,sometimes,4,<6,<1,,5 to 7
+3,male,sometimes,never,>85,High,often,1 to 4,<1,5 to 7,sometimes,4,6 to 8,1 to 4,,5 to 7
+1,female,often,often,<75,Low,sometimes,>4,1 to 4,>9,never,4,6 to 8,<1,,5 to 7
+8,female,sometimes,often,<75,Moderate,sometimes,1 to 4,<1,<5,never,4,6 to 8,<1,,5 to 7
+8,female,often,sometimes,<75,High,sometimes,<1,1 to 4,<5,often,5,6 to 8,1 to 4,,>9
+1,female,sometimes,sometimes,<75,Low,sometimes,1 to 4,<1,5 to 7,never,5,>8,1 to 4,,5 to 7
+5,male,never,never,>85,Low,often,<1,<1,7 to 9,often,4,>8,>4,,5 to 7
+5,male,sometimes,often,75 to 85,High,often,<1,>4,5 to 7,often,3,<6,1 to 4,,<5
+4,male,often,sometimes,>85,High,often,<1,>4,>9,sometimes,5,<6,1 to 4,,5 to 7
+6,male,never,often,75 to 85,Moderate,never,>4,1 to 4,<5,sometimes,5,6 to 8,<1,,<5
+3,female,sometimes,sometimes,75 to 85,High,never,>4,<1,>9,often,4,>8,1 to 4,,7 to 9
+8,female,often,never,<75,Moderate,sometimes,>4,>4,<5,often,5,>8,<1,,7 to 9
+5,male,sometimes,never,<75,Moderate,never,>4,1 to 4,<5,never,3,>8,<1,,>9
+1,male,never,often,>85,High,often,<1,1 to 4,7 to 9,sometimes,3,6 to 8,>4,,5 to 7
+5,female,sometimes,never,75 to 85,Moderate,sometimes,1 to 4,>4,<5,sometimes,4,<6,>4,,<5
+7,female,often,sometimes,<75,Low,sometimes,1 to 4,1 to 4,7 to 9,sometimes,3,6 to 8,>4,,5 to 7
+5,female,sometimes,sometimes,<75,High,never,<1,>4,5 to 7,never,3,6 to 8,1 to 4,,7 to 9
+4,male,never,often,<75,Moderate,often,1 to 4,1 to 4,7 to 9,often,5,>8,<1,,7 to 9
+8,male,never,often,>85,Moderate,never,<1,>4,5 to 7,often,5,6 to 8,>4,,<5
+3,male,never,often,>85,High,sometimes,1 to 4,<1,5 to 7,often,4,>8,>4,,<5
+7,female,sometimes,sometimes,75 to 85,Low,often,<1,<1,7 to 9,sometimes,2,6 to 8,<1,,5 to 7
+5,male,never,sometimes,<75,High,sometimes,>4,<1,<5,sometimes,4,<6,>4,,<5
+3,female,often,never,>85,High,sometimes,1 to 4,>4,7 to 9,sometimes,4,>8,>4,,<5
+6,female,sometimes,never,75 to 85,High,never,<1,>4,>9,sometimes,4,>8,1 to 4,,5 to 7
+7,male,often,sometimes,75 to 85,High,sometimes,>4,1 to 4,<5,sometimes,4,<6,1 to 4,,<5
+2,female,sometimes,often,75 to 85,Low,often,>4,<1,7 to 9,often,4,<6,<1,,>9
+2,female,never,sometimes,75 to 85,Low,often,1 to 4,<1,5 to 7,often,3,>8,1 to 4,,5 to 7
+7,male,never,sometimes,<75,Moderate,never,<1,<1,5 to 7,sometimes,3,<6,1 to 4,,5 to 7
+3,female,never,never,>85,Moderate,sometimes,1 to 4,<1,7 to 9,sometimes,3,>8,1 to 4,,5 to 7
+6,female,sometimes,never,<75,Low,often,>4,1 to 4,<5,never,4,6 to 8,>4,,>9
+5,male,often,never,75 to 85,Low,never,<1,<1,>9,sometimes,3,<6,>4,,>9
+7,female,never,sometimes,>85,Low,never,<1,<1,>9,never,4,<6,1 to 4,,5 to 7
+7,male,never,often,>85,Low,sometimes,>4,>4,>9,sometimes,5,<6,>4,,5 to 7
+1,female,never,never,<75,Low,sometimes,1 to 4,>4,>9,sometimes,4,<6,>4,,<5
+3,male,sometimes,never,>85,High,often,1 to 4,1 to 4,<5,often,5,6 to 8,1 to 4,,5 to 7
+5,male,sometimes,sometimes,75 to 85,Low,sometimes,>4,<1,<5,never,5,<6,>4,,5 to 7
+8,male,never,sometimes,75 to 85,Low,sometimes,1 to 4,1 to 4,>9,sometimes,5,6 to 8,<1,,7 to 9
+1,male,often,sometimes,>85,Low,often,1 to 4,<1,<5,never,4,6 to 8,1 to 4,,7 to 9
+3,male,never,never,<75,High,often,1 to 4,1 to 4,5 to 7,often,4,>8,>4,,5 to 7
+3,female,never,sometimes,<75,High,never,>4,>4,<5,sometimes,4,>8,>4,,5 to 7
+6,male,often,sometimes,<75,High,often,1 to 4,>4,>9,never,4,>8,1 to 4,,5 to 7
+8,female,sometimes,sometimes,<75,Low,often,1 to 4,<1,<5,never,3,<6,1 to 4,,5 to 7
+1,male,never,often,>85,Moderate,never,1 to 4,1 to 4,7 to 9,sometimes,3,6 to 8,1 to 4,,>9
+1,female,never,often,>85,High,often,<1,1 to 4,<5,never,5,6 to 8,1 to 4,,<5
+1,female,often,often,75 to 85,High,sometimes,1 to 4,>4,<5,never,3,6 to 8,<1,,5 to 7
+1,female,often,never,>85,Moderate,never,1 to 4,<1,7 to 9,often,5,<6,>4,,<5
+3,female,sometimes,sometimes,<75,Moderate,never,1 to 4,1 to 4,5 to 7,never,5,<6,<1,,<5
+7,male,often,never,<75,High,often,<1,1 to 4,<5,never,4,6 to 8,<1,,<5
+3,female,often,never,75 to 85,Moderate,sometimes,1 to 4,>4,7 to 9,sometimes,5,6 to 8,<1,,>9
+4,male,never,never,>85,High,sometimes,<1,1 to 4,>9,sometimes,4,6 to 8,1 to 4,,>9
+7,female,sometimes,sometimes,>85,Moderate,never,>4,1 to 4,<5,sometimes,5,>8,1 to 4,,7 to 9
+6,female,often,never,<75,Low,often,<1,<1,7 to 9,sometimes,4,>8,>4,,<5
+8,male,sometimes,often,>85,Moderate,often,>4,>4,5 to 7,often,3,6 to 8,1 to 4,,5 to 7
+5,female,never,often,75 to 85,High,sometimes,<1,1 to 4,5 to 7,sometimes,5,>8,1 to 4,,>9
+2,male,never,never,75 to 85,High,never,>4,>4,5 to 7,often,4,>8,>4,,5 to 7
+2,male,never,often,75 to 85,Low,never,1 to 4,<1,>9,sometimes,3,<6,>4,,>9
+5,male,never,sometimes,>85,Low,sometimes,<1,1 to 4,7 to 9,often,4,>8,<1,,7 to 9
+8,male,never,often,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,>8,1 to 4,,5 to 7
+3,female,sometimes,sometimes,75 to 85,High,often,>4,<1,5 to 7,often,5,<6,1 to 4,,<5
+4,female,often,sometimes,75 to 85,Low,sometimes,>4,>4,>9,often,4,<6,1 to 4,,>9
+6,male,sometimes,sometimes,75 to 85,Moderate,sometimes,>4,1 to 4,7 to 9,never,5,6 to 8,1 to 4,,>9
+5,female,often,sometimes,<75,Moderate,never,<1,1 to 4,<5,often,5,<6,>4,,>9
+5,male,sometimes,never,<75,Moderate,often,>4,1 to 4,>9,sometimes,4,>8,1 to 4,,<5
+7,female,often,never,75 to 85,Low,sometimes,1 to 4,1 to 4,5 to 7,often,5,>8,>4,,5 to 7
+3,female,never,sometimes,75 to 85,Moderate,never,<1,>4,<5,never,5,<6,1 to 4,,7 to 9
+3,female,never,sometimes,>85,Moderate,never,1 to 4,1 to 4,>9,often,3,6 to 8,<1,,<5
+2,female,never,often,>85,Low,sometimes,>4,>4,<5,never,4,6 to 8,<1,,5 to 7
+7,male,never,often,<75,Moderate,sometimes,>4,1 to 4,>9,sometimes,5,6 to 8,1 to 4,,5 to 7
+8,male,never,often,>85,Low,sometimes,1 to 4,>4,5 to 7,often,5,6 to 8,<1,,<5
+5,male,sometimes,sometimes,>85,High,never,>4,>4,>9,never,5,>8,1 to 4,,7 to 9
+8,male,sometimes,often,75 to 85,Low,sometimes,<1,1 to 4,5 to 7,never,3,6 to 8,>4,,7 to 9
+4,male,often,often,>85,Low,never,>4,1 to 4,7 to 9,often,5,>8,1 to 4,,7 to 9
+4,male,often,often,<75,Moderate,often,>4,1 to 4,7 to 9,sometimes,3,<6,1 to 4,,<5
+5,male,sometimes,sometimes,75 to 85,Moderate,often,<1,1 to 4,<5,often,5,6 to 8,1 to 4,,5 to 7
+6,male,never,often,75 to 85,High,sometimes,>4,1 to 4,7 to 9,sometimes,5,6 to 8,1 to 4,,>9
+1,male,often,often,75 to 85,Moderate,often,1 to 4,>4,>9,never,5,<6,<1,,>9
+5,male,often,often,75 to 85,High,never,>4,1 to 4,>9,often,4,>8,1 to 4,,<5
+6,male,never,sometimes,>85,Moderate,often,1 to 4,1 to 4,5 to 7,often,3,6 to 8,1 to 4,,7 to 9
+4,male,never,often,<75,Moderate,sometimes,<1,1 to 4,7 to 9,sometimes,4,6 to 8,>4,,>9
+2,female,sometimes,sometimes,75 to 85,Moderate,often,1 to 4,<1,5 to 7,never,4,6 to 8,1 to 4,,<5
+5,male,often,sometimes,>85,Low,sometimes,<1,1 to 4,5 to 7,sometimes,3,<6,1 to 4,,5 to 7
+8,female,sometimes,never,<75,Moderate,sometimes,<1,1 to 4,5 to 7,often,5,<6,>4,,7 to 9
+8,male,sometimes,often,>85,Moderate,sometimes,<1,1 to 4,<5,sometimes,4,6 to 8,1 to 4,,7 to 9
+6,female,often,never,<75,High,sometimes,>4,1 to 4,5 to 7,often,3,6 to 8,1 to 4,,<5
+1,male,sometimes,never,<75,High,often,<1,>4,>9,sometimes,3,>8,1 to 4,,>9
+4,male,often,often,75 to 85,Moderate,often,>4,>4,>9,sometimes,4,6 to 8,1 to 4,,>9
+2,female,often,never,<75,Low,often,>4,1 to 4,5 to 7,never,3,6 to 8,<1,,<5
+5,male,sometimes,sometimes,<75,Low,often,1 to 4,1 to 4,7 to 9,often,4,>8,1 to 4,,5 to 7
+7,female,sometimes,never,75 to 85,High,often,1 to 4,1 to 4,7 to 9,often,5,<6,>4,,5 to 7
+2,male,often,sometimes,>85,High,sometimes,>4,<1,5 to 7,sometimes,5,>8,<1,,7 to 9
+1,female,often,never,<75,High,never,1 to 4,1 to 4,>9,never,5,<6,1 to 4,,7 to 9
+4,female,sometimes,never,>85,Low,never,1 to 4,>4,5 to 7,sometimes,5,6 to 8,1 to 4,,5 to 7
+2,female,often,sometimes,75 to 85,Low,sometimes,<1,<1,5 to 7,never,4,6 to 8,1 to 4,,>9
+1,male,never,sometimes,>85,Moderate,often,<1,>4,>9,often,4,6 to 8,>4,,5 to 7
+6,male,sometimes,never,<75,Moderate,never,1 to 4,>4,>9,sometimes,5,6 to 8,>4,,5 to 7
+2,female,often,never,>85,High,often,1 to 4,1 to 4,<5,often,5,>8,1 to 4,,>9
+7,male,never,often,75 to 85,High,sometimes,<1,1 to 4,>9,sometimes,5,6 to 8,<1,,7 to 9
+7,female,never,sometimes,>85,Low,sometimes,1 to 4,>4,7 to 9,sometimes,5,6 to 8,<1,,7 to 9
+4,male,sometimes,often,<75,High,sometimes,1 to 4,>4,>9,never,5,<6,>4,,>9
+2,female,never,sometimes,>85,Moderate,sometimes,<1,1 to 4,7 to 9,often,4,>8,1 to 4,,7 to 9
+3,male,never,sometimes,<75,Moderate,never,1 to 4,1 to 4,<5,often,5,6 to 8,>4,,7 to 9
+4,female,often,often,>85,High,never,<1,1 to 4,7 to 9,sometimes,5,>8,<1,,5 to 7
+4,female,sometimes,never,>85,Moderate,never,>4,<1,5 to 7,sometimes,3,>8,1 to 4,,5 to 7
+2,male,often,never,>85,Low,never,<1,>4,>9,sometimes,4,>8,1 to 4,,<5
+7,female,sometimes,often,>85,High,sometimes,1 to 4,>4,5 to 7,never,4,6 to 8,>4,,5 to 7
+2,male,sometimes,often,>85,Low,never,<1,>4,7 to 9,sometimes,5,<6,1 to 4,,7 to 9
+2,male,sometimes,never,>85,Moderate,never,<1,>4,<5,sometimes,4,6 to 8,>4,,>9
+2,male,sometimes,often,>85,Low,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,<6,1 to 4,,>9
+7,male,sometimes,often,>85,Moderate,sometimes,>4,>4,5 to 7,never,3,6 to 8,<1,,7 to 9
+7,female,often,sometimes,75 to 85,Moderate,sometimes,<1,<1,7 to 9,often,5,<6,1 to 4,,<5
+1,female,sometimes,sometimes,>85,Low,sometimes,<1,>4,5 to 7,often,5,<6,<1,,7 to 9
+8,female,often,often,<75,High,sometimes,<1,1 to 4,<5,sometimes,4,6 to 8,>4,,5 to 7
+8,female,never,often,>85,High,sometimes,<1,1 to 4,<5,sometimes,2,6 to 8,1 to 4,,>9
+2,female,never,never,<75,Low,sometimes,<1,1 to 4,>9,never,5,<6,<1,,<5
+4,male,often,often,>85,Low,sometimes,1 to 4,>4,7 to 9,often,5,<6,1 to 4,,<5
+2,male,sometimes,sometimes,>85,Low,never,<1,1 to 4,>9,sometimes,3,<6,1 to 4,,>9
+3,male,sometimes,never,<75,Moderate,sometimes,1 to 4,>4,5 to 7,sometimes,3,6 to 8,<1,,7 to 9
+5,female,never,never,75 to 85,High,sometimes,>4,>4,>9,never,3,6 to 8,1 to 4,,7 to 9
+7,male,never,never,<75,Moderate,never,1 to 4,<1,7 to 9,never,5,6 to 8,1 to 4,,<5
+5,male,often,sometimes,75 to 85,Moderate,often,1 to 4,<1,5 to 7,sometimes,5,6 to 8,>4,,>9
+1,male,never,never,<75,Low,often,1 to 4,<1,<5,often,5,6 to 8,>4,,>9
+7,female,often,sometimes,75 to 85,High,sometimes,1 to 4,1 to 4,<5,often,5,>8,>4,,7 to 9
+7,female,often,never,>85,Moderate,sometimes,<1,<1,>9,sometimes,4,6 to 8,<1,,>9
+7,male,often,often,75 to 85,High,never,<1,1 to 4,>9,sometimes,4,6 to 8,>4,,5 to 7
+2,male,never,never,>85,Moderate,often,>4,1 to 4,>9,sometimes,3,6 to 8,<1,,5 to 7
+8,male,never,sometimes,>85,Moderate,never,1 to 4,1 to 4,7 to 9,often,3,6 to 8,1 to 4,,>9
+6,male,never,never,>85,High,often,<1,<1,5 to 7,never,4,<6,1 to 4,,<5
+5,male,sometimes,never,75 to 85,Low,never,<1,1 to 4,>9,often,5,6 to 8,>4,,5 to 7
+7,male,sometimes,never,>85,High,sometimes,1 to 4,>4,7 to 9,never,3,6 to 8,1 to 4,,7 to 9
+4,female,never,never,>85,Moderate,never,1 to 4,1 to 4,<5,sometimes,4,>8,1 to 4,,7 to 9
+8,female,sometimes,never,>85,High,sometimes,>4,1 to 4,<5,often,4,>8,1 to 4,,<5
+4,female,sometimes,sometimes,75 to 85,Low,often,>4,<1,>9,often,4,6 to 8,<1,,<5
+8,male,never,sometimes,<75,Low,often,>4,<1,>9,never,5,<6,<1,,7 to 9
+8,male,sometimes,often,75 to 85,Moderate,never,<1,1 to 4,7 to 9,often,4,>8,1 to 4,,7 to 9
+2,female,often,sometimes,75 to 85,Low,often,1 to 4,>4,<5,sometimes,4,>8,1 to 4,,7 to 9
+3,male,sometimes,never,<75,Low,never,1 to 4,<1,>9,never,4,6 to 8,<1,,5 to 7
+3,female,often,sometimes,<75,Moderate,often,>4,>4,<5,sometimes,4,6 to 8,1 to 4,,5 to 7
+8,male,never,never,<75,Low,sometimes,>4,1 to 4,<5,never,5,6 to 8,1 to 4,,<5
+7,female,sometimes,often,<75,Moderate,often,<1,<1,5 to 7,never,1,<6,1 to 4,,>9
+5,female,often,sometimes,75 to 85,High,often,<1,>4,5 to 7,never,4,6 to 8,<1,,>9
+2,female,often,never,>85,High,sometimes,1 to 4,1 to 4,>9,sometimes,5,>8,1 to 4,,7 to 9
+8,male,never,often,<75,Low,sometimes,>4,1 to 4,5 to 7,sometimes,3,6 to 8,<1,,>9
+1,female,often,often,>85,Low,never,<1,<1,5 to 7,never,5,6 to 8,1 to 4,,<5
+7,male,never,never,<75,High,sometimes,>4,1 to 4,5 to 7,often,3,6 to 8,1 to 4,,>9
+8,male,often,often,>85,High,never,1 to 4,1 to 4,5 to 7,sometimes,3,<6,<1,,5 to 7
+7,female,often,often,>85,High,often,1 to 4,1 to 4,7 to 9,never,4,>8,1 to 4,,7 to 9
+8,male,never,often,<75,Low,sometimes,>4,1 to 4,5 to 7,often,3,6 to 8,>4,,>9
+1,female,never,often,<75,High,often,<1,1 to 4,5 to 7,sometimes,3,<6,<1,,7 to 9
+2,male,sometimes,often,<75,High,often,<1,>4,>9,often,5,6 to 8,>4,,7 to 9
+3,male,sometimes,often,75 to 85,Low,often,>4,<1,>9,often,5,>8,<1,,5 to 7
+7,female,often,never,<75,Moderate,never,<1,<1,5 to 7,never,5,6 to 8,1 to 4,,7 to 9
+1,male,never,sometimes,<75,High,sometimes,1 to 4,<1,>9,never,5,<6,>4,,7 to 9
+3,male,often,never,<75,Low,sometimes,1 to 4,1 to 4,5 to 7,often,4,<6,1 to 4,,5 to 7
+7,male,never,sometimes,<75,Moderate,often,>4,1 to 4,<5,often,4,6 to 8,<1,,<5
+3,male,never,never,>85,High,never,1 to 4,>4,5 to 7,never,4,6 to 8,>4,,7 to 9
+5,female,sometimes,never,75 to 85,High,never,1 to 4,<1,<5,never,5,>8,1 to 4,,>9
+2,female,often,often,<75,Moderate,sometimes,1 to 4,>4,<5,sometimes,3,6 to 8,1 to 4,,7 to 9
+8,female,sometimes,never,75 to 85,High,often,1 to 4,<1,5 to 7,sometimes,5,6 to 8,1 to 4,,>9
+8,male,sometimes,never,<75,Moderate,often,1 to 4,1 to 4,>9,never,3,<6,<1,,<5
+1,male,never,sometimes,<75,High,sometimes,>4,<1,>9,never,4,<6,>4,,7 to 9
+1,male,never,never,<75,Moderate,never,<1,>4,5 to 7,often,5,<6,>4,,7 to 9
+1,female,never,sometimes,<75,High,sometimes,>4,>4,<5,often,5,<6,>4,,7 to 9
+4,male,never,often,>85,Moderate,never,<1,1 to 4,<5,sometimes,5,6 to 8,>4,,5 to 7
+5,female,never,often,>85,Moderate,sometimes,>4,1 to 4,>9,sometimes,2,6 to 8,<1,,7 to 9
+4,male,sometimes,never,>85,Moderate,sometimes,<1,>4,>9,often,3,<6,1 to 4,,7 to 9
+6,female,often,often,>85,High,never,>4,>4,7 to 9,often,5,<6,<1,,>9
+2,male,sometimes,sometimes,>85,High,sometimes,<1,<1,5 to 7,often,2,6 to 8,<1,,<5
+6,female,never,never,75 to 85,Low,sometimes,1 to 4,<1,5 to 7,sometimes,5,<6,<1,,>9
+7,male,sometimes,often,>85,High,often,>4,<1,5 to 7,often,4,6 to 8,1 to 4,,7 to 9
+7,female,never,sometimes,>85,Low,never,1 to 4,>4,<5,never,3,6 to 8,>4,,5 to 7
+3,male,often,sometimes,>85,Moderate,sometimes,>4,>4,7 to 9,never,5,6 to 8,1 to 4,,<5
+3,female,often,sometimes,75 to 85,High,never,>4,<1,<5,never,4,6 to 8,1 to 4,,>9
+1,female,sometimes,never,>85,Low,often,>4,>4,5 to 7,never,5,6 to 8,1 to 4,,5 to 7
+7,male,often,never,<75,Low,never,<1,<1,>9,never,5,>8,>4,,>9
+6,male,sometimes,sometimes,>85,Moderate,sometimes,<1,1 to 4,>9,sometimes,5,6 to 8,>4,,<5
+6,male,sometimes,often,75 to 85,High,sometimes,>4,1 to 4,5 to 7,often,5,>8,>4,,5 to 7
+6,female,sometimes,often,<75,High,often,<1,1 to 4,<5,often,4,>8,<1,,>9
+3,male,sometimes,sometimes,75 to 85,High,never,1 to 4,>4,5 to 7,never,5,>8,>4,,<5
+1,male,sometimes,sometimes,<75,High,sometimes,1 to 4,1 to 4,5 to 7,often,3,>8,<1,,7 to 9
+6,male,sometimes,sometimes,75 to 85,Moderate,never,1 to 4,<1,5 to 7,never,3,6 to 8,1 to 4,,>9
+8,male,never,often,75 to 85,Low,often,1 to 4,<1,5 to 7,sometimes,3,6 to 8,1 to 4,,<5
+8,male,often,sometimes,<75,Moderate,never,>4,1 to 4,<5,sometimes,4,>8,<1,,7 to 9
+6,male,often,sometimes,75 to 85,High,often,>4,<1,5 to 7,often,3,<6,1 to 4,,5 to 7
+2,female,never,sometimes,>85,Low,sometimes,1 to 4,1 to 4,7 to 9,often,4,6 to 8,<1,,>9
+6,male,never,sometimes,<75,Moderate,never,1 to 4,<1,>9,never,4,>8,1 to 4,,5 to 7
+3,male,often,sometimes,>85,Moderate,never,>4,1 to 4,<5,never,3,>8,1 to 4,,5 to 7
+1,female,often,sometimes,>85,Moderate,often,1 to 4,1 to 4,>9,sometimes,4,>8,<1,,<5
+3,male,sometimes,often,75 to 85,High,never,<1,1 to 4,<5,often,2,6 to 8,1 to 4,,7 to 9
+1,female,never,sometimes,<75,Moderate,sometimes,1 to 4,>4,>9,sometimes,4,>8,>4,,7 to 9
+3,female,sometimes,never,75 to 85,Low,often,>4,1 to 4,7 to 9,never,5,>8,<1,,7 to 9
+1,female,never,never,>85,Moderate,never,>4,<1,7 to 9,sometimes,4,>8,1 to 4,,7 to 9
+5,female,often,often,>85,Moderate,never,1 to 4,1 to 4,5 to 7,never,5,6 to 8,1 to 4,,>9
+7,male,sometimes,never,>85,Low,never,1 to 4,>4,5 to 7,often,4,>8,<1,,5 to 7
+4,female,often,sometimes,75 to 85,High,often,>4,>4,5 to 7,never,5,6 to 8,>4,,7 to 9
+3,male,often,never,75 to 85,Moderate,sometimes,1 to 4,<1,<5,sometimes,5,6 to 8,<1,,5 to 7
+3,male,sometimes,never,>85,Low,sometimes,>4,>4,5 to 7,sometimes,5,>8,>4,,>9
+3,male,sometimes,often,<75,High,never,>4,<1,5 to 7,often,5,6 to 8,>4,,5 to 7
+3,male,often,sometimes,>85,Low,sometimes,>4,>4,>9,sometimes,4,<6,1 to 4,,5 to 7
+2,male,sometimes,sometimes,>85,Moderate,sometimes,1 to 4,>4,7 to 9,often,5,<6,1 to 4,,5 to 7
+6,female,often,sometimes,<75,High,often,<1,>4,5 to 7,sometimes,4,<6,1 to 4,,5 to 7
+5,male,never,never,<75,Moderate,often,<1,<1,>9,sometimes,3,6 to 8,<1,,>9
+4,female,sometimes,sometimes,<75,High,often,>4,<1,<5,never,4,<6,1 to 4,,7 to 9
+6,female,often,sometimes,>85,Low,sometimes,<1,<1,5 to 7,never,4,6 to 8,<1,,<5
+2,male,sometimes,never,75 to 85,Moderate,never,<1,<1,5 to 7,never,4,<6,>4,,<5
+4,female,sometimes,never,>85,Moderate,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,>8,>4,,<5
+2,male,never,often,>85,Low,never,>4,1 to 4,>9,never,4,>8,>4,,5 to 7
+1,male,sometimes,sometimes,75 to 85,Moderate,often,>4,1 to 4,5 to 7,sometimes,5,6 to 8,1 to 4,,>9
+5,female,sometimes,never,75 to 85,Moderate,often,>4,1 to 4,5 to 7,sometimes,5,>8,1 to 4,,>9
+6,male,never,often,<75,Low,sometimes,>4,1 to 4,7 to 9,sometimes,5,6 to 8,>4,,>9
+6,male,never,often,<75,Low,sometimes,>4,>4,<5,never,5,6 to 8,1 to 4,,7 to 9
+3,male,often,often,<75,Low,sometimes,<1,<1,7 to 9,sometimes,3,6 to 8,1 to 4,,7 to 9
+5,female,sometimes,sometimes,>85,Low,often,1 to 4,>4,>9,sometimes,4,6 to 8,>4,,>9
+2,male,often,sometimes,75 to 85,Low,often,<1,1 to 4,5 to 7,never,5,<6,<1,,<5
+6,female,often,often,<75,Moderate,sometimes,<1,<1,>9,often,4,>8,1 to 4,,7 to 9
+6,female,never,sometimes,75 to 85,High,sometimes,>4,1 to 4,7 to 9,often,4,>8,1 to 4,,7 to 9
+6,male,sometimes,often,>85,High,never,1 to 4,1 to 4,5 to 7,sometimes,5,>8,>4,,7 to 9
+6,female,sometimes,sometimes,75 to 85,Moderate,sometimes,<1,1 to 4,>9,never,3,<6,1 to 4,,7 to 9
+1,female,often,often,<75,Low,often,1 to 4,1 to 4,>9,sometimes,5,<6,<1,,>9
+3,male,never,sometimes,>85,Moderate,sometimes,>4,<1,<5,often,3,6 to 8,>4,,7 to 9
+2,male,sometimes,often,>85,Low,often,1 to 4,<1,<5,sometimes,4,6 to 8,1 to 4,,5 to 7
+3,male,often,never,<75,Low,often,1 to 4,<1,7 to 9,often,5,>8,<1,,5 to 7
+5,male,never,often,>85,Moderate,often,1 to 4,1 to 4,5 to 7,often,4,6 to 8,>4,,<5
+4,male,never,sometimes,<75,High,never,>4,1 to 4,<5,never,3,>8,1 to 4,,>9
+1,female,often,never,75 to 85,High,often,<1,>4,5 to 7,sometimes,3,>8,1 to 4,,7 to 9
+1,female,never,sometimes,<75,High,sometimes,>4,1 to 4,>9,sometimes,5,<6,1 to 4,,5 to 7
+5,female,never,sometimes,>85,Low,never,1 to 4,1 to 4,5 to 7,sometimes,1,6 to 8,<1,,5 to 7
+5,female,sometimes,often,<75,Low,sometimes,1 to 4,>4,>9,often,5,6 to 8,1 to 4,,7 to 9
+5,female,never,often,75 to 85,Low,often,>4,1 to 4,<5,often,4,>8,1 to 4,,7 to 9
+2,female,often,sometimes,>85,Low,never,>4,1 to 4,5 to 7,sometimes,3,6 to 8,<1,,5 to 7
+6,female,never,often,<75,Low,sometimes,>4,>4,<5,never,3,6 to 8,1 to 4,,>9
+6,female,never,sometimes,<75,Low,never,<1,1 to 4,7 to 9,never,5,6 to 8,1 to 4,,>9
+6,female,sometimes,sometimes,<75,High,never,<1,>4,<5,never,5,<6,1 to 4,,<5
+1,male,often,sometimes,75 to 85,Low,often,>4,<1,5 to 7,sometimes,5,>8,>4,,5 to 7
+4,female,often,never,75 to 85,Moderate,sometimes,<1,1 to 4,<5,often,3,6 to 8,1 to 4,,7 to 9
+8,male,never,sometimes,>85,Moderate,never,1 to 4,1 to 4,>9,sometimes,4,<6,1 to 4,,7 to 9
+8,female,never,often,>85,Moderate,often,>4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,7 to 9
+2,female,never,never,<75,High,never,>4,1 to 4,>9,never,3,<6,>4,,<5
+8,male,never,sometimes,>85,Low,never,1 to 4,>4,>9,never,3,<6,>4,,5 to 7
+8,male,often,often,75 to 85,Moderate,sometimes,>4,>4,<5,sometimes,4,6 to 8,<1,,5 to 7
+3,male,never,often,75 to 85,Moderate,sometimes,<1,>4,7 to 9,often,4,6 to 8,1 to 4,,7 to 9
+3,male,sometimes,never,>85,Moderate,sometimes,1 to 4,1 to 4,<5,often,3,<6,1 to 4,,7 to 9
+6,male,often,sometimes,75 to 85,Low,never,>4,1 to 4,5 to 7,often,5,>8,1 to 4,,5 to 7
+3,female,never,sometimes,75 to 85,High,often,1 to 4,<1,5 to 7,sometimes,4,<6,>4,,>9
+5,female,never,sometimes,75 to 85,Low,never,1 to 4,1 to 4,<5,often,5,6 to 8,1 to 4,,5 to 7
+7,male,sometimes,never,<75,Low,often,>4,>4,7 to 9,never,5,6 to 8,>4,,>9
+2,female,often,sometimes,<75,High,often,1 to 4,>4,5 to 7,sometimes,5,>8,1 to 4,,<5
+1,female,never,sometimes,>85,High,often,>4,>4,>9,often,3,>8,>4,,<5
+2,female,sometimes,sometimes,75 to 85,Low,never,1 to 4,>4,5 to 7,often,4,>8,1 to 4,,5 to 7
+8,female,sometimes,sometimes,75 to 85,High,sometimes,<1,<1,7 to 9,never,4,6 to 8,>4,,5 to 7
+2,female,often,often,75 to 85,High,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,<6,1 to 4,,5 to 7
+2,male,sometimes,often,75 to 85,Moderate,never,<1,1 to 4,7 to 9,never,5,6 to 8,<1,,>9
+1,female,never,sometimes,>85,High,never,1 to 4,<1,>9,often,5,<6,<1,,7 to 9
+5,male,often,never,75 to 85,High,sometimes,>4,<1,5 to 7,sometimes,5,>8,1 to 4,,7 to 9
+2,female,never,sometimes,>85,Low,never,<1,<1,<5,often,3,6 to 8,<1,,7 to 9
+3,male,often,sometimes,<75,High,never,1 to 4,>4,>9,never,5,6 to 8,>4,,>9
+2,male,sometimes,sometimes,>85,Low,sometimes,>4,>4,>9,never,5,<6,>4,,7 to 9
+4,male,never,never,>85,Low,sometimes,1 to 4,1 to 4,5 to 7,never,5,6 to 8,<1,,<5
+4,male,often,sometimes,75 to 85,High,never,1 to 4,1 to 4,<5,sometimes,4,>8,<1,,>9
+7,female,sometimes,sometimes,75 to 85,Low,often,<1,>4,<5,often,5,<6,1 to 4,,>9
+7,female,sometimes,often,<75,High,sometimes,1 to 4,>4,5 to 7,often,5,6 to 8,1 to 4,,7 to 9
+6,female,never,never,>85,Moderate,sometimes,1 to 4,1 to 4,7 to 9,sometimes,4,6 to 8,<1,,7 to 9
+8,female,never,often,>85,Moderate,never,<1,>4,<5,sometimes,5,6 to 8,1 to 4,,5 to 7
+8,male,sometimes,often,75 to 85,Moderate,never,>4,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,<5
+1,male,often,never,>85,Moderate,never,<1,<1,7 to 9,sometimes,4,>8,1 to 4,,<5
+5,female,never,sometimes,>85,Moderate,often,<1,<1,<5,never,4,6 to 8,>4,,5 to 7
+7,male,sometimes,sometimes,75 to 85,Low,sometimes,<1,>4,7 to 9,sometimes,5,<6,1 to 4,,5 to 7
+5,male,never,often,>85,Moderate,never,1 to 4,>4,5 to 7,never,4,6 to 8,<1,,5 to 7
+3,male,sometimes,often,>85,High,sometimes,<1,<1,<5,sometimes,4,<6,1 to 4,,7 to 9
+1,male,never,never,75 to 85,Moderate,never,>4,1 to 4,5 to 7,never,5,>8,>4,,5 to 7
+8,male,often,sometimes,<75,Moderate,often,>4,>4,>9,sometimes,3,<6,1 to 4,,>9
+7,male,sometimes,often,<75,Low,often,1 to 4,1 to 4,<5,sometimes,4,6 to 8,<1,,7 to 9
+6,female,sometimes,never,>85,Moderate,sometimes,1 to 4,>4,7 to 9,sometimes,5,>8,1 to 4,,5 to 7
+1,female,sometimes,never,75 to 85,Low,often,1 to 4,<1,>9,often,4,6 to 8,>4,,>9
+7,female,never,sometimes,75 to 85,Moderate,often,>4,>4,<5,never,4,<6,>4,,5 to 7
+6,male,never,often,>85,High,often,1 to 4,<1,>9,never,5,<6,<1,,5 to 7
+2,male,never,sometimes,<75,Low,often,>4,>4,<5,never,5,6 to 8,>4,,5 to 7
+5,female,often,often,<75,High,never,1 to 4,1 to 4,7 to 9,sometimes,3,6 to 8,<1,,7 to 9
+3,male,often,never,75 to 85,Moderate,sometimes,1 to 4,>4,<5,never,3,6 to 8,>4,,7 to 9
+7,male,sometimes,never,75 to 85,Moderate,often,<1,>4,7 to 9,sometimes,5,6 to 8,<1,,>9
+2,female,sometimes,never,<75,Moderate,never,>4,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,5 to 7
+4,female,never,sometimes,75 to 85,Low,sometimes,<1,>4,7 to 9,sometimes,4,<6,>4,,5 to 7
+2,female,often,never,>85,Moderate,often,<1,>4,>9,never,5,<6,>4,,7 to 9
+7,female,often,sometimes,>85,Low,sometimes,1 to 4,1 to 4,7 to 9,sometimes,5,>8,1 to 4,,>9
+6,male,never,sometimes,<75,Low,never,1 to 4,1 to 4,<5,never,4,>8,1 to 4,,5 to 7
+2,female,often,never,<75,Moderate,never,>4,1 to 4,7 to 9,never,4,6 to 8,1 to 4,,5 to 7
+7,male,sometimes,sometimes,75 to 85,Moderate,often,1 to 4,1 to 4,>9,often,3,<6,1 to 4,,7 to 9
+5,male,never,never,75 to 85,Moderate,often,<1,<1,7 to 9,sometimes,4,<6,<1,,>9
+2,female,never,often,>85,Low,sometimes,>4,1 to 4,<5,often,4,6 to 8,>4,,5 to 7
+3,female,never,often,75 to 85,Moderate,sometimes,<1,1 to 4,7 to 9,sometimes,5,<6,<1,,<5
+8,male,often,sometimes,<75,Low,sometimes,>4,1 to 4,5 to 7,sometimes,3,<6,1 to 4,,5 to 7
+3,male,never,often,>85,Moderate,sometimes,<1,<1,<5,sometimes,5,6 to 8,<1,,5 to 7
+6,male,sometimes,sometimes,75 to 85,Low,sometimes,1 to 4,>4,5 to 7,sometimes,5,6 to 8,<1,,5 to 7
+8,male,never,never,<75,Moderate,sometimes,>4,1 to 4,>9,never,5,<6,1 to 4,,5 to 7
+8,male,never,sometimes,<75,High,often,1 to 4,1 to 4,7 to 9,sometimes,4,6 to 8,1 to 4,,5 to 7
+3,male,never,sometimes,75 to 85,Low,often,>4,1 to 4,7 to 9,sometimes,3,6 to 8,1 to 4,,7 to 9
+4,male,sometimes,sometimes,75 to 85,High,never,>4,>4,5 to 7,often,5,>8,<1,,<5
+6,male,often,sometimes,>85,Moderate,often,1 to 4,1 to 4,>9,sometimes,5,<6,<1,,<5
+1,female,often,never,<75,High,never,<1,1 to 4,5 to 7,sometimes,4,6 to 8,>4,,7 to 9
+7,female,often,often,75 to 85,Moderate,sometimes,<1,<1,7 to 9,sometimes,3,>8,1 to 4,,7 to 9
+1,female,sometimes,sometimes,>85,High,sometimes,>4,<1,<5,sometimes,4,6 to 8,<1,,>9
+2,female,sometimes,never,>85,Moderate,sometimes,1 to 4,1 to 4,>9,sometimes,5,<6,1 to 4,,>9
+4,male,sometimes,often,75 to 85,High,never,>4,>4,>9,sometimes,4,6 to 8,1 to 4,,7 to 9
+7,female,never,sometimes,>85,Low,sometimes,1 to 4,1 to 4,>9,sometimes,1,<6,1 to 4,,>9
+4,female,sometimes,never,75 to 85,Low,sometimes,1 to 4,1 to 4,>9,often,5,6 to 8,<1,,7 to 9
+3,male,sometimes,never,75 to 85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,sometimes,1,6 to 8,1 to 4,,5 to 7
+7,female,never,often,75 to 85,Moderate,often,<1,1 to 4,<5,often,3,>8,>4,,5 to 7
+8,female,sometimes,often,<75,Low,sometimes,>4,<1,5 to 7,never,3,>8,<1,,>9
+1,female,often,often,>85,Moderate,never,>4,1 to 4,>9,sometimes,3,<6,<1,,<5
+3,female,often,sometimes,>85,Moderate,often,<1,<1,<5,sometimes,4,<6,1 to 4,,>9
+2,female,never,sometimes,75 to 85,Moderate,never,1 to 4,1 to 4,5 to 7,sometimes,5,>8,1 to 4,,>9
+5,female,often,sometimes,<75,High,often,1 to 4,>4,5 to 7,often,5,6 to 8,1 to 4,,7 to 9
+5,male,never,sometimes,<75,Moderate,often,>4,1 to 4,7 to 9,often,4,6 to 8,1 to 4,,<5
+8,female,sometimes,often,75 to 85,Low,sometimes,>4,1 to 4,5 to 7,sometimes,5,<6,1 to 4,,7 to 9
+1,female,often,never,75 to 85,High,often,1 to 4,1 to 4,5 to 7,often,5,>8,1 to 4,,5 to 7
+6,male,sometimes,sometimes,>85,High,often,1 to 4,<1,5 to 7,sometimes,5,6 to 8,>4,,7 to 9
+3,male,often,never,75 to 85,Low,often,<1,1 to 4,<5,often,5,<6,>4,,5 to 7
+7,female,never,often,>85,Moderate,never,<1,>4,>9,sometimes,4,>8,1 to 4,,5 to 7
+6,female,never,never,>85,Low,often,<1,<1,5 to 7,sometimes,3,6 to 8,<1,,>9
+2,female,never,sometimes,>85,Low,sometimes,1 to 4,1 to 4,7 to 9,never,1,6 to 8,1 to 4,,<5
+3,male,sometimes,never,75 to 85,Low,often,>4,<1,>9,never,4,>8,<1,,5 to 7
+1,male,often,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,4,6 to 8,1 to 4,,5 to 7
+1,female,never,sometimes,<75,High,sometimes,1 to 4,>4,<5,never,5,>8,1 to 4,,5 to 7
+2,male,sometimes,never,<75,Low,sometimes,1 to 4,1 to 4,7 to 9,often,5,6 to 8,1 to 4,,5 to 7
+5,male,often,often,<75,Moderate,sometimes,1 to 4,>4,<5,sometimes,3,<6,1 to 4,,7 to 9
+4,male,often,sometimes,>85,Low,often,1 to 4,>4,5 to 7,never,5,>8,<1,,7 to 9
+2,female,often,often,<75,Low,sometimes,1 to 4,>4,5 to 7,never,1,6 to 8,1 to 4,,7 to 9
+6,female,often,often,75 to 85,High,sometimes,<1,1 to 4,<5,often,4,6 to 8,<1,,7 to 9
+2,male,sometimes,sometimes,75 to 85,Low,often,>4,>4,<5,often,4,>8,1 to 4,,7 to 9
+5,male,never,often,75 to 85,Low,often,>4,1 to 4,<5,often,1,6 to 8,>4,,>9
+2,male,sometimes,often,>85,Low,sometimes,1 to 4,<1,>9,sometimes,4,<6,<1,,5 to 7
+4,female,often,never,<75,High,often,1 to 4,1 to 4,>9,often,4,6 to 8,>4,,7 to 9
+4,male,sometimes,often,75 to 85,Moderate,sometimes,<1,>4,7 to 9,never,4,<6,<1,,<5
+6,male,sometimes,sometimes,75 to 85,High,sometimes,>4,<1,5 to 7,never,3,<6,<1,,7 to 9
+5,male,often,never,75 to 85,High,sometimes,1 to 4,>4,>9,sometimes,5,<6,<1,,7 to 9
+6,female,sometimes,never,75 to 85,Moderate,never,>4,<1,7 to 9,never,5,6 to 8,>4,,7 to 9
+6,male,never,never,<75,Moderate,often,1 to 4,>4,7 to 9,often,2,6 to 8,1 to 4,,>9
+8,male,often,often,<75,High,sometimes,1 to 4,1 to 4,7 to 9,often,4,>8,>4,,>9
+2,male,often,sometimes,<75,Low,sometimes,<1,>4,>9,never,4,6 to 8,1 to 4,,5 to 7
+2,male,sometimes,never,>85,Low,sometimes,1 to 4,>4,<5,often,5,<6,1 to 4,,7 to 9
+7,female,sometimes,sometimes,75 to 85,High,never,1 to 4,1 to 4,>9,often,4,<6,1 to 4,,<5
+2,female,never,sometimes,<75,Low,sometimes,<1,>4,5 to 7,often,3,6 to 8,1 to 4,,>9
+3,male,often,never,75 to 85,High,never,>4,>4,7 to 9,often,4,6 to 8,<1,,7 to 9
+4,female,never,sometimes,<75,High,often,<1,>4,<5,never,5,6 to 8,1 to 4,,7 to 9
+3,female,often,never,>85,High,sometimes,>4,1 to 4,>9,often,5,>8,1 to 4,,7 to 9
+8,male,never,sometimes,75 to 85,Low,often,<1,1 to 4,7 to 9,often,3,6 to 8,<1,,5 to 7
+8,female,often,never,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,3,6 to 8,>4,,7 to 9
+2,male,never,often,<75,Low,never,1 to 4,<1,5 to 7,sometimes,5,>8,1 to 4,,<5
+2,female,often,never,<75,High,sometimes,<1,>4,5 to 7,often,4,>8,<1,,7 to 9
+4,male,sometimes,sometimes,>85,Moderate,sometimes,1 to 4,>4,5 to 7,sometimes,5,6 to 8,>4,,7 to 9
+4,female,sometimes,never,75 to 85,High,sometimes,>4,1 to 4,>9,never,4,>8,1 to 4,,>9
+5,female,often,often,75 to 85,Low,sometimes,<1,>4,5 to 7,never,5,>8,1 to 4,,7 to 9
+8,female,often,often,75 to 85,High,often,<1,1 to 4,5 to 7,never,4,>8,1 to 4,,<5
+7,female,never,sometimes,75 to 85,High,never,>4,<1,7 to 9,often,4,6 to 8,1 to 4,,5 to 7
+8,male,never,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,>9,sometimes,5,>8,<1,,>9
+4,male,often,often,<75,Moderate,sometimes,<1,1 to 4,>9,often,4,6 to 8,<1,,>9
+6,male,often,often,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,often,4,<6,1 to 4,,5 to 7
+8,female,never,sometimes,>85,Low,never,<1,>4,5 to 7,sometimes,4,>8,>4,,7 to 9
+1,female,never,often,75 to 85,High,never,<1,>4,7 to 9,sometimes,4,6 to 8,>4,,7 to 9
+3,male,never,often,75 to 85,Moderate,sometimes,>4,1 to 4,<5,never,5,>8,>4,,<5
+3,female,often,often,75 to 85,Moderate,never,1 to 4,1 to 4,5 to 7,never,4,>8,1 to 4,,>9
+5,female,often,never,75 to 85,High,often,>4,>4,5 to 7,never,3,>8,1 to 4,,7 to 9
+1,female,never,sometimes,>85,High,never,>4,<1,7 to 9,often,4,>8,1 to 4,,>9
+4,male,never,sometimes,>85,High,sometimes,1 to 4,1 to 4,5 to 7,often,1,>8,>4,,5 to 7
+4,male,sometimes,sometimes,>85,Moderate,never,<1,>4,>9,often,5,6 to 8,1 to 4,,5 to 7
+3,male,never,never,<75,Low,never,>4,1 to 4,5 to 7,often,4,6 to 8,<1,,<5
+4,female,often,never,75 to 85,High,often,>4,>4,7 to 9,often,3,6 to 8,1 to 4,,<5
+2,male,often,often,>85,High,often,<1,>4,>9,sometimes,4,6 to 8,1 to 4,,5 to 7
+2,male,often,often,>85,Low,often,>4,1 to 4,<5,never,1,>8,<1,,7 to 9
+5,female,sometimes,never,75 to 85,High,never,>4,<1,5 to 7,sometimes,3,<6,1 to 4,,>9
+3,female,never,sometimes,75 to 85,Low,never,>4,>4,7 to 9,never,4,6 to 8,1 to 4,,7 to 9
+2,male,often,sometimes,<75,Low,often,<1,1 to 4,7 to 9,sometimes,5,6 to 8,>4,,>9
+4,female,never,never,<75,Moderate,sometimes,1 to 4,1 to 4,<5,often,4,>8,>4,,5 to 7
+6,male,never,never,75 to 85,Low,never,<1,>4,<5,sometimes,5,6 to 8,1 to 4,,>9
+1,male,sometimes,never,>85,Moderate,sometimes,1 to 4,>4,<5,never,5,6 to 8,>4,,5 to 7
+5,female,often,never,>85,High,never,>4,1 to 4,>9,sometimes,1,6 to 8,1 to 4,,7 to 9
+1,male,sometimes,never,>85,Moderate,often,>4,>4,>9,sometimes,3,6 to 8,<1,,>9
+7,female,never,often,75 to 85,High,often,>4,<1,<5,never,1,6 to 8,1 to 4,,7 to 9
+3,male,often,never,>85,High,sometimes,<1,<1,<5,never,5,6 to 8,1 to 4,,>9
+1,female,never,sometimes,75 to 85,Moderate,sometimes,>4,1 to 4,7 to 9,sometimes,3,>8,1 to 4,,>9
+2,male,often,sometimes,>85,High,sometimes,>4,<1,5 to 7,often,3,>8,<1,,7 to 9
+8,female,never,often,<75,Low,never,<1,<1,>9,often,5,6 to 8,1 to 4,,>9
+2,male,never,sometimes,>85,Low,never,1 to 4,1 to 4,7 to 9,never,5,>8,<1,,>9
+5,female,sometimes,never,>85,Moderate,never,<1,<1,5 to 7,never,4,<6,1 to 4,,5 to 7
+3,female,sometimes,sometimes,>85,Low,never,>4,>4,<5,never,5,>8,1 to 4,,>9
+4,female,never,never,<75,Moderate,sometimes,1 to 4,<1,<5,often,3,6 to 8,1 to 4,,7 to 9
+8,male,sometimes,often,<75,High,often,1 to 4,<1,<5,often,5,<6,1 to 4,,5 to 7
+8,male,never,often,<75,Low,often,1 to 4,>4,>9,sometimes,5,6 to 8,1 to 4,,>9
+4,female,often,often,<75,High,often,<1,>4,5 to 7,often,5,6 to 8,>4,,>9
+2,male,sometimes,sometimes,>85,Low,sometimes,1 to 4,1 to 4,>9,never,4,6 to 8,>4,,5 to 7
+5,male,never,sometimes,>85,High,never,1 to 4,<1,5 to 7,sometimes,4,6 to 8,<1,,<5
+6,male,sometimes,sometimes,>85,Moderate,never,<1,<1,>9,often,5,<6,<1,,>9
+8,female,never,often,75 to 85,Moderate,sometimes,>4,<1,<5,often,3,>8,1 to 4,,5 to 7
+1,male,sometimes,sometimes,>85,Low,often,<1,>4,5 to 7,never,4,<6,1 to 4,,7 to 9
+7,female,never,sometimes,<75,Low,sometimes,1 to 4,<1,<5,sometimes,3,>8,1 to 4,,>9
+6,female,never,sometimes,>85,High,never,1 to 4,<1,7 to 9,often,4,<6,1 to 4,,>9
+4,female,never,never,75 to 85,Moderate,never,<1,<1,>9,often,4,>8,1 to 4,,>9
+4,female,sometimes,never,75 to 85,Moderate,sometimes,<1,1 to 4,<5,often,3,6 to 8,1 to 4,,5 to 7
+7,female,sometimes,never,75 to 85,High,never,1 to 4,<1,<5,sometimes,4,>8,1 to 4,,5 to 7
+5,male,sometimes,never,<75,Moderate,often,>4,<1,5 to 7,never,2,<6,<1,,<5
+7,male,never,often,>85,High,sometimes,>4,1 to 4,<5,never,4,6 to 8,<1,,5 to 7
+3,male,often,never,75 to 85,Moderate,never,<1,1 to 4,5 to 7,never,4,<6,<1,,5 to 7
+8,female,sometimes,sometimes,75 to 85,High,often,<1,<1,7 to 9,often,4,>8,1 to 4,,5 to 7
+1,male,sometimes,sometimes,75 to 85,High,often,1 to 4,>4,5 to 7,sometimes,3,>8,1 to 4,,>9
+6,male,sometimes,sometimes,75 to 85,High,never,<1,1 to 4,5 to 7,often,3,<6,>4,,<5
+6,male,sometimes,often,>85,High,sometimes,>4,>4,>9,sometimes,4,6 to 8,>4,,7 to 9
+2,male,sometimes,never,<75,Moderate,sometimes,1 to 4,>4,>9,often,4,>8,<1,,>9
+2,female,never,sometimes,>85,Low,sometimes,>4,<1,>9,often,5,6 to 8,1 to 4,,>9
+5,female,never,sometimes,<75,Low,sometimes,>4,1 to 4,5 to 7,never,4,>8,>4,,7 to 9
+3,female,never,never,>85,High,often,1 to 4,>4,7 to 9,sometimes,3,>8,1 to 4,,<5
+7,male,often,often,>85,Low,never,<1,1 to 4,>9,often,3,6 to 8,<1,,>9
+4,male,often,never,<75,Moderate,often,>4,>4,7 to 9,often,5,6 to 8,>4,,>9
+1,female,sometimes,often,>85,High,never,>4,>4,5 to 7,never,4,6 to 8,1 to 4,,7 to 9
+2,female,sometimes,never,75 to 85,High,sometimes,1 to 4,>4,<5,never,3,6 to 8,1 to 4,,>9
+4,male,sometimes,often,>85,Low,never,<1,>4,>9,often,3,6 to 8,>4,,5 to 7
+3,female,sometimes,never,<75,Moderate,sometimes,>4,>4,>9,never,2,>8,1 to 4,,5 to 7
+8,female,sometimes,often,75 to 85,Moderate,often,1 to 4,>4,>9,sometimes,5,<6,1 to 4,,7 to 9
+5,male,often,sometimes,75 to 85,Low,often,1 to 4,<1,7 to 9,sometimes,5,>8,<1,,5 to 7
+2,female,never,never,<75,Low,often,1 to 4,1 to 4,<5,never,3,6 to 8,<1,,>9
+2,female,never,sometimes,<75,Low,often,1 to 4,<1,<5,never,4,<6,1 to 4,,7 to 9
+1,male,never,often,75 to 85,Low,sometimes,1 to 4,<1,7 to 9,sometimes,3,>8,1 to 4,,<5
+2,male,never,never,75 to 85,Moderate,often,<1,>4,>9,sometimes,4,>8,1 to 4,,>9
+6,male,sometimes,often,<75,Moderate,often,1 to 4,1 to 4,7 to 9,never,5,<6,<1,,>9
+7,female,sometimes,never,>85,Low,sometimes,<1,1 to 4,<5,often,3,>8,1 to 4,,>9
+8,male,never,sometimes,>85,High,often,1 to 4,>4,>9,often,4,6 to 8,>4,,7 to 9
+6,male,sometimes,sometimes,<75,High,often,<1,<1,5 to 7,never,3,<6,<1,,>9
+3,female,sometimes,often,>85,High,often,1 to 4,>4,7 to 9,sometimes,4,<6,>4,,>9
+4,male,never,sometimes,<75,Moderate,often,>4,1 to 4,5 to 7,often,3,6 to 8,1 to 4,,5 to 7
+2,male,never,never,<75,Moderate,often,>4,<1,7 to 9,never,4,6 to 8,>4,,<5
+8,female,often,sometimes,>85,Low,often,<1,<1,7 to 9,often,4,6 to 8,1 to 4,,5 to 7
+4,female,never,often,<75,High,often,1 to 4,<1,<5,sometimes,3,6 to 8,1 to 4,,>9
+6,female,sometimes,sometimes,<75,Low,never,1 to 4,<1,7 to 9,sometimes,5,6 to 8,1 to 4,,7 to 9
+4,female,sometimes,sometimes,>85,High,never,1 to 4,<1,7 to 9,often,3,6 to 8,1 to 4,,<5
+5,male,often,often,<75,High,often,1 to 4,>4,5 to 7,sometimes,5,6 to 8,1 to 4,,7 to 9
+3,female,never,often,>85,High,often,1 to 4,<1,7 to 9,sometimes,3,6 to 8,>4,,5 to 7
+8,female,often,often,75 to 85,Moderate,never,1 to 4,>4,<5,sometimes,4,6 to 8,<1,,<5
+3,male,never,sometimes,>85,High,sometimes,>4,<1,7 to 9,sometimes,3,6 to 8,>4,,5 to 7
+6,female,often,sometimes,>85,Moderate,sometimes,<1,1 to 4,7 to 9,sometimes,1,6 to 8,<1,,<5
+7,male,often,never,75 to 85,High,often,1 to 4,1 to 4,5 to 7,sometimes,4,>8,>4,,7 to 9
+5,male,often,sometimes,>85,Moderate,often,>4,1 to 4,5 to 7,often,5,6 to 8,1 to 4,,7 to 9
+1,male,often,sometimes,<75,Moderate,sometimes,1 to 4,1 to 4,5 to 7,never,4,6 to 8,<1,,<5
+7,female,sometimes,sometimes,75 to 85,Low,sometimes,>4,>4,<5,sometimes,3,6 to 8,1 to 4,,5 to 7
+7,male,often,never,<75,High,sometimes,1 to 4,1 to 4,<5,sometimes,5,<6,>4,,5 to 7
+5,female,often,often,75 to 85,High,often,>4,>4,5 to 7,sometimes,5,6 to 8,1 to 4,,5 to 7
+8,female,sometimes,never,75 to 85,High,often,1 to 4,1 to 4,5 to 7,often,5,>8,1 to 4,,7 to 9
+8,male,often,often,>85,High,never,>4,>4,<5,sometimes,1,>8,>4,,5 to 7
+4,female,sometimes,often,>85,High,often,>4,<1,7 to 9,never,5,>8,>4,,5 to 7
+8,female,sometimes,often,<75,Low,sometimes,>4,1 to 4,7 to 9,never,5,6 to 8,1 to 4,,>9
+7,female,often,often,75 to 85,High,often,1 to 4,<1,>9,sometimes,5,6 to 8,>4,,>9
+6,male,sometimes,sometimes,<75,High,sometimes,>4,>4,<5,never,3,<6,>4,,>9
+4,female,sometimes,never,75 to 85,Low,sometimes,1 to 4,1 to 4,5 to 7,never,5,<6,1 to 4,,5 to 7
+4,female,sometimes,sometimes,<75,Moderate,often,>4,<1,7 to 9,never,3,<6,1 to 4,,>9
+5,female,never,often,75 to 85,Low,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,6 to 8,1 to 4,,5 to 7
+5,female,sometimes,sometimes,>85,Low,never,1 to 4,<1,>9,often,3,6 to 8,>4,,<5
+3,female,often,never,75 to 85,Low,sometimes,>4,>4,<5,often,5,6 to 8,<1,,>9
+1,male,often,often,75 to 85,High,sometimes,>4,1 to 4,<5,never,5,>8,1 to 4,,7 to 9
+7,male,sometimes,sometimes,>85,Moderate,often,1 to 4,<1,7 to 9,never,5,<6,1 to 4,,>9
+6,female,often,often,>85,High,sometimes,>4,<1,5 to 7,never,3,<6,>4,,7 to 9
+5,male,often,never,75 to 85,Moderate,sometimes,<1,>4,>9,never,4,<6,<1,,>9
+1,male,never,never,>85,High,never,1 to 4,1 to 4,<5,often,3,6 to 8,1 to 4,,7 to 9
+3,female,never,sometimes,75 to 85,Moderate,never,>4,<1,>9,sometimes,3,<6,>4,,5 to 7
+3,male,sometimes,often,<75,High,never,<1,>4,7 to 9,sometimes,3,<6,>4,,7 to 9
+3,female,sometimes,never,>85,Low,sometimes,1 to 4,1 to 4,5 to 7,sometimes,5,>8,<1,,>9
+3,male,sometimes,sometimes,<75,High,often,>4,<1,>9,sometimes,3,6 to 8,>4,,7 to 9
+6,male,sometimes,often,<75,Low,sometimes,1 to 4,<1,<5,never,5,6 to 8,1 to 4,,>9
+7,male,never,sometimes,75 to 85,Low,sometimes,1 to 4,>4,>9,sometimes,3,<6,<1,,5 to 7
+8,male,never,sometimes,<75,Low,never,>4,>4,<5,never,4,>8,1 to 4,,>9
+5,female,often,never,<75,Low,sometimes,>4,1 to 4,<5,often,4,<6,>4,,7 to 9
+3,male,sometimes,often,<75,Moderate,sometimes,>4,<1,7 to 9,never,2,6 to 8,>4,,5 to 7
+3,female,sometimes,never,<75,Low,often,1 to 4,1 to 4,>9,never,3,6 to 8,1 to 4,,>9
+5,female,often,often,75 to 85,High,never,<1,<1,7 to 9,sometimes,3,<6,<1,,>9
+4,male,sometimes,often,<75,Moderate,never,1 to 4,<1,7 to 9,never,2,6 to 8,1 to 4,,>9
+4,female,often,never,<75,Low,often,<1,<1,<5,often,4,6 to 8,1 to 4,,7 to 9
+6,female,sometimes,often,>85,Low,sometimes,1 to 4,>4,<5,sometimes,5,6 to 8,1 to 4,,7 to 9
+7,male,sometimes,sometimes,>85,High,never,>4,<1,5 to 7,often,3,6 to 8,<1,,5 to 7
+3,male,sometimes,never,75 to 85,High,often,>4,<1,<5,sometimes,4,<6,1 to 4,,5 to 7
+4,female,often,sometimes,>85,High,often,<1,>4,>9,never,3,<6,<1,,5 to 7
+6,female,often,sometimes,75 to 85,Low,sometimes,1 to 4,1 to 4,<5,sometimes,1,<6,>4,,7 to 9
+7,male,sometimes,often,75 to 85,Low,often,>4,>4,5 to 7,often,5,6 to 8,1 to 4,,<5
+4,female,often,sometimes,75 to 85,High,never,1 to 4,1 to 4,5 to 7,sometimes,5,<6,1 to 4,,5 to 7
+4,male,never,sometimes,75 to 85,High,never,<1,<1,5 to 7,sometimes,3,6 to 8,<1,,5 to 7
+2,male,sometimes,never,<75,Moderate,sometimes,<1,1 to 4,>9,never,3,6 to 8,>4,,>9
+6,female,sometimes,never,<75,High,sometimes,<1,1 to 4,>9,never,4,6 to 8,<1,,7 to 9
+5,male,sometimes,often,75 to 85,High,never,>4,<1,7 to 9,often,4,<6,>4,,7 to 9
+4,female,never,sometimes,<75,Low,never,<1,<1,7 to 9,never,4,6 to 8,1 to 4,,>9
+2,male,often,never,75 to 85,Low,often,<1,1 to 4,5 to 7,sometimes,5,>8,>4,,7 to 9
+2,male,often,often,<75,High,never,1 to 4,<1,7 to 9,often,3,6 to 8,1 to 4,,>9
+3,male,sometimes,often,75 to 85,Moderate,sometimes,>4,>4,>9,sometimes,5,<6,1 to 4,,5 to 7
+8,male,often,sometimes,>85,Moderate,sometimes,1 to 4,1 to 4,5 to 7,sometimes,4,6 to 8,1 to 4,,5 to 7
+3,female,never,sometimes,75 to 85,High,sometimes,<1,<1,>9,never,3,6 to 8,<1,,<5
+3,female,never,often,>85,Low,sometimes,<1,<1,<5,sometimes,5,6 to 8,<1,,7 to 9
+8,female,often,often,<75,Low,never,<1,>4,7 to 9,sometimes,5,>8,<1,,5 to 7
+6,male,never,never,<75,Moderate,often,>4,1 to 4,>9,sometimes,1,>8,1 to 4,,>9
+7,female,never,often,75 to 85,High,sometimes,1 to 4,1 to 4,7 to 9,never,5,6 to 8,>4,,7 to 9
