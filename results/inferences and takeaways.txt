@@ -1,0 +1,45 @@
+if attentiveness is high and previous score is high or good and social time is good output is good
+
+if attentiveness is high and previous score is high or good and social time is low output is high
+
+if attentiveness is high and previous score is low output is low
+
+#if attentiveness is good and study time is good and library time is high and friends time is high output good
+
+if attentiveness is good and study time is good and library time is high and friends time is good and previous score is high output is high
+
+if attentiveness is good and study time is good and library time is high and friends time is good and previous score is good output is good
+
+if attentiveness is good and study time is high and libray time is low output is good
+
+if attentiveness is good and study time is good and previous score is good output is good
+
+if attentiveness is good and study time is good and previous score is low output is low
+
+if attentiveness is good and study time is low and attendance is good output is good
+
+if attentiveness is good and study time is low and attendance is low and faculty_time is good output is good
+
+if attentiveness is good and study time is low and attendance is low and faculty_time is low output is low
+
+#if attentiveness is low and study time is good and friends time is good and attendance is good output is low
+
+#if attentiveness is low and study time is good and friends time is good and attendance is low and faculty  output is good
+
+if attentiveness is low and study time is low and faculty time is high output is good
+
+if attentiveness is low and study time is low and faculty time is low and library time is good and previous score is high output is good
+
+if attentiveness is low and study time is low and faculty time is low and library time is good and previous score is low output is low
+
+if attentiveness is low and study time is low and faculty time is low and library time is low output is low
+
+
+//takeaways
+Time spent by the student with group members promotes good performance to a certain degree but it can be detrimental to spend too much time because it takes away time that could be spent on other activities, but it is highly dependent on the individual.
+Students can score good marks in many ways, such as attending classes on a regular basis, spending more time in library, visiting faculties after classes, spending time with friends(learning if they haven't attended classes), but in order to score high marks a student must be attentive and has to study at home. When other criteria are good enough, the time spent on social media has less impact on the student's performance. 
+If a student scores well in the previous semesters, then they are also very likely to score well in the current semester.
+Time spent by students in library and visiting faculty would only affect their result, if their study time and attentiveness is not high. 
+
+#group inferences
+The variance of performance of students within a group is less, which implies that students within a group are very likely to secure the same scores. There are few spikes in the resulting graph for variance within a group, but as implied by the group stacked graph, this spike is due to the fact that a good performing student and a bad performing student are in the same group, but this type of groups are rare in our data, which implies that usually students form groups with others that perform nearly the same or better than them.
