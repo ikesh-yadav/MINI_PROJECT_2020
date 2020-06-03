@@ -45,5 +45,9 @@ print(df.shape)
 
 from chefboost import Chefboost as chef
 
+from sklearn import DecisionTreeClassifier
+
+dtree = DecisionTreeClassifier(criterion='gini', max_depth=1)
+
 config = {'algorithm': 'C4.5'}
-model = chef.fit(df, config)
+model = dtree.fit(df, config)

@@ -1,0 +1,43 @@
+if attentiveness is high and previous score is high or medium and social time is medium output is medium
+
+if attentiveness is high and previous score is high or medium and social time is low output is high
+
+if attentiveness is high and previous score is low output is low
+
+#if attentiveness is medium and study time is good and library time is high and friends time is high output good
+
+if attentiveness is medium and study time is good and library time is high and friends time is good and previous score is high output is high
+
+if attentiveness is medium and study time is good and library time is high and friends time is good and previous score is good output is good
+
+if attentiveness is medium and study time is high and libray time is low output is good
+
+if attentiveness is medium and study time is good and previous score is good output is good
+
+if attentiveness is medium and study time is good and previous score is low output is low
+
+if attentiveness is medium and study time is low and attendance is good output is medium
+
+if attentiveness is medium and study time is low and attendance is low and faculty_time is good output is medium
+
+if attentiveness is medium and study time is low and attendance is low and faculty_time is low output is low
+
+#if attentiveness is low and study time is good and friends time is good and attendance is good output is low
+
+#if attentiveness is low and study time is good and friends time is good and attendance is low and faculty  output is medium
+
+if attentiveness is low and study time is low and faculty time is high output is good
+
+if attentiveness is low and study time is low and faculty time is low and library time is good and previous score is high output is good
+
+if attentiveness is low and study time is low and faculty time is low and library time is good and previous score is low output is low
+
+if attentiveness is low and study time is low and faculty time is low and library time is low output is low
+
+
+//takeaways
+Time spent by the student with group members matters to a extent good but spending too much time may be harmful as it takes away time for other activities, but very dependent on the individual.
+Students can score good marks in many ways like attending classes regularly, spending more time in library, approaching faculties after classes, spending time with friends learning if they didnt attend classes, but to score high marks a student must have high attentiveness and have to study at home. Time spent on social media has less effect on the student performance if thier other parameters are good enough.
+If a student scores good in the previous semesters then they are also very likely to score good in the current semester.
+Time spent by students in library and visiting faculty only affect thier result if their study time and attentiveness is not high. 
+

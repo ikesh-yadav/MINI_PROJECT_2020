@@ -1,0 +1,61 @@
+#label encoder
+le = LabelEncoder()
+
+data.drop(["group_name"], axis = 1, inplace = True) #droppin column
+data.drop(["semester"], axis = 1, inplace = True) #droppin column
+
+
+data.drop(["gender"], axis = 1, inplace = True) #droppin column
+#data.gender = le.fit_transform(data.gender)
+
+
+#pipe = Pipeline([('scaler', StandardScaler()),
+
+data.friends_time = le.fit_transform(data.friends_time)
+data.faculty_time = le.fit_transform(data.faculty_time)
+data.attendance = le.fit_transform(data.attendance)
+data.attentiveness = le.fit_transform(data.attentiveness)
+data.co_extra_curricular = le.fit_transform(data.co_extra_curricular)
+data.study_time = le.fit_transform(data.study_time)
+data.social_time = le.fit_transform(data.social_time)
+data.previous_score = le.fit_transform(data.previous_score)
+data.extra_courses = le.fit_transform(data.extra_courses)
+data.sleep_time = le.fit_transform(data.sleep_time)
+data.library_time = le.fit_transform(data.library_time)
+data.Decision = le.fit_transform(data.Decision)
+
+cat_features = ['friends_time', 'faculty_time', 'attendance']
+enc = preprocessing.LabelEncoder()
+enc.fit(cat_features)
+
+ct = ColumnTransformer(
+    [('oh_enc', LabelEncoder(), ["friends_time"]),],  # the column numbers I want to apply this to
+    remainder='passthrough'  # This leaves the rest of my columns in place
+)
+data = ct.fit_transform(data)
+
+
+#one hot encoding
+
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder
+
+ct = ColumnTransformer([('categorical encoding', OneHotEncoder(), ["friends_time"])], remainder = 'passthrough')
+
+data.friends_time = ct.fit_transform(data)
+
+#ct = ColumnTransformer(
+#    [('oh_enc', OneHotEncoder(sparse=False), ["friends_time"]),],  # the column numbers I want to apply this to
+#    remainder='passthrough'  # This leaves the rest of my columns in place
+#)
+#data = ct.fit_transform(data)
+
+#data = pd.DataFrame(data=data)
+
+
+#scatter plot
+scatter_matrix(data)
+plt.xticks(rotation = 'vertical')
+plt.figure(figsize=(20,20))
+plt.show()
+

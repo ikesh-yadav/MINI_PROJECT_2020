@@ -23,8 +23,13 @@ def generate(fieldname):
             working_dict = dependency_data[fieldname]
             #print(working_dict)
             no_dependencies = len(working_dict)
-            self_weights = dependency_data[fieldname]["self"]
-            final_weights = self_weights
+            if "self" in dependency_data[fieldname]:
+                print(True)
+                self_weights = dependency_data[fieldname]["self"]
+                final_weights = self_weights
+            else:
+                print(False)
+                exit()
 
         #open the files csv file and temp file to write the modifications to
         with open(filename, "rt") as csvReaderFile,temp_file:
